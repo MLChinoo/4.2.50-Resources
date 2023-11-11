@@ -1,0 +1,319 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Cyno_ExtraAttack",
+			"abilityName": "Avatar_Cyno_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack05_TurndDirection",
+			"abilityName": "Avatar_Cyno_Attack05_TurndDirection",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack03_FireHitEffect_Handler",
+			"abilityName": "Avatar_Cyno_Attack03_FireHitEffect_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack03_Hit",
+			"abilityName": "Avatar_Cyno_Attack03_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack03_Hit_0",
+			"abilityName": "Avatar_Cyno_Attack03_Hit_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack03_Hit_1",
+			"abilityName": "Avatar_Cyno_Attack03_Hit_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack03_Hit_2",
+			"abilityName": "Avatar_Cyno_Attack03_Hit_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Cyno_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Cyno_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalArt_DropBallCheck",
+			"abilityName": "Avatar_Cyno_ElementalArt_DropBallCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalArt_DropBall",
+			"abilityName": "Avatar_Cyno_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalArt_Bullet",
+			"abilityName": "Avatar_Cyno_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BurstMode_ElementalArt_Onstart",
+			"abilityName": "Avatar_Cyno_BurstMode_ElementalArt_Onstart",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Constellation_6",
+			"abilityName": "Avatar_Cyno_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalArt_Muya_Success_Handler",
+			"abilityName": "Avatar_Cyno_ElementalArt_Muya_Success_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst",
+			"abilityName": "Avatar_Cyno_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_CameraBlur_Handler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_CameraBlur_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_CameraBlur_Effect",
+			"abilityName": "Avatar_Cyno_ElementalBurst_CameraBlur_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_ChangeVisible",
+			"abilityName": "Avatar_Cyno_ElementalBurst_ChangeVisible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_ResetInit",
+			"abilityName": "Avatar_Cyno_ElementalBurst_ResetInit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Fog_Handler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Fog_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Weather_DisPlayHandler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Weather_DisPlayHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Weather_LoopHandler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Weather_LoopHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_ChangeWeather",
+			"abilityName": "Avatar_Cyno_ElementalBurst_ChangeWeather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BigArmAppear",
+			"abilityName": "Avatar_Cyno_BigArmAppear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ArmBreak",
+			"abilityName": "Avatar_Cyno_ArmBreak",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BurstMode_State_Badao",
+			"abilityName": "Avatar_Cyno_BurstMode_State_Badao",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BigArmDisAppear",
+			"abilityName": "Avatar_Cyno_BigArmDisAppear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_WarningCameraEffect",
+			"abilityName": "Avatar_Cyno_ElementalBurst_WarningCameraEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_JackalMode",
+			"abilityName": "Avatar_Cyno_ElementalBurst_JackalMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_WarningCameraEffectM",
+			"abilityName": "Avatar_Cyno_ElementalBurst_WarningCameraEffectM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_MuyaHandlerT",
+			"abilityName": "Avatar_Cyno_ElementalBurst_MuyaHandlerT",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_MuyaHandler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_MuyaHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Renderer_HandlerR",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Renderer_HandlerR",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Constellation_6_BulletHandlerR",
+			"abilityName": "Avatar_Cyno_Constellation_6_BulletHandlerR",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_EndMode",
+			"abilityName": "Avatar_Cyno_ElementalBurst_EndMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Renderer_Handler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Renderer_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Renderer_AttackHandler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Renderer_AttackHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_MuyaAddTime",
+			"abilityName": "Avatar_Cyno_ElementalBurst_MuyaAddTime",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Constellation_6_BulletHandler",
+			"abilityName": "Avatar_Cyno_Constellation_6_BulletHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_EndHanlder",
+			"abilityName": "Avatar_Cyno_ElementalBurst_EndHanlder",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Buff_AddDurability",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Buff_AddDurability",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_FallingAnthem",
+			"abilityName": "Avatar_Cyno_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_onReconnectHandler",
+			"abilityName": "Avatar_Cyno_ElementalBurst_onReconnectHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BigArm_DisAppear",
+			"abilityName": "Avatar_Cyno_BigArm_DisAppear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ExtraAttack_BurstMode_Damage",
+			"abilityName": "Avatar_Cyno_ExtraAttack_BurstMode_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BurstMode_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Cyno_BurstMode_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack_DamageHandler",
+			"abilityName": "Avatar_Cyno_Attack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Constellation_6_BulletCdHandler",
+			"abilityName": "Avatar_Cyno_Constellation_6_BulletCdHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno",
+			"abilityName": "Avatar_Cyno",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_TeamConfig_01BS",
+			"abilityName": "Avatar_Cyno_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_TeamConfig_01Loop",
+			"abilityName": "Avatar_Cyno_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_TeamConfig_01AS",
+			"abilityName": "Avatar_Cyno_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_BurstMode_ExtraAttack_Bullett",
+			"abilityName": "Avatar_Cyno_BurstMode_ExtraAttack_Bullett",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Spine",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_BS",
+			"abilityName": "Avatar_Cyno_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_ElementalBurst_Hit",
+			"abilityName": "Avatar_Cyno_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Spine_Loop_01",
+			"abilityName": "Avatar_Cyno_Spine_Loop_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Spine",
+			"abilityName": "Avatar_Cyno_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Spine_Loop_02",
+			"abilityName": "Avatar_Cyno_Spine_Loop_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno02_Spine",
+			"abilityName": "Avatar_Cyno02_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Cyno_Attack_DamageHandler1Cyno_PermanentSkill_2_Ratio_BurstModeNormalAttack",
+			"abilityName": "Avatar_Cyno_Attack_DamageHandler1Cyno_PermanentSkill_2_Ratio_BurstModeNormalAttack",
+			"abilityOverride": ""
+		}
+	]
+}

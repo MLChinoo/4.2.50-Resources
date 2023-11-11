@@ -1,0 +1,154 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Layla_ExtraAttack",
+			"abilityName": "Avatar_Layla_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalArt",
+			"abilityName": "Avatar_Layla_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_HasTeamShield",
+			"abilityName": "Avatar_Layla_HasTeamShield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalArt_Handler",
+			"abilityName": "Avatar_Layla_ElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_IceShield_GV_Count",
+			"abilityName": "Avatar_Layla_IceShield_GV_Count",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_IceShield_Can_Count",
+			"abilityName": "Avatar_Layla_IceShield_Can_Count",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ToughShield_Level",
+			"abilityName": "Avatar_Layla_ToughShield_Level",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalArt_Gadget",
+			"abilityName": "Avatar_Layla_ElementalArt_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_IceShield_GV_Gadget",
+			"abilityName": "Avatar_Layla_IceShield_GV_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_Shoot_TeamBuff",
+			"abilityName": "Avatar_Layla_Shoot_TeamBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ArtAndBurst_ReviveEnergy",
+			"abilityName": "Avatar_Layla_ArtAndBurst_ReviveEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst",
+			"abilityName": "Avatar_Layla_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_Gadget",
+			"abilityName": "Avatar_Layla_ElementalBurst_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Layla_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ArtAndBurst_DamageExtra",
+			"abilityName": "Avatar_Layla_ArtAndBurst_DamageExtra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ArtAndBurst_DamageUp",
+			"abilityName": "Avatar_Layla_ArtAndBurst_DamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_FallingAnthem",
+			"abilityName": "Avatar_Layla_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla",
+			"abilityName": "Avatar_Layla",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_TeamConfig_01BS",
+			"abilityName": "Avatar_Layla_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_TeamConfig_01Loop",
+			"abilityName": "Avatar_Layla_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_TeamConfig_01AS",
+			"abilityName": "Avatar_Layla_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_Spine",
+			"abilityName": "Avatar_Layla_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_BS",
+			"abilityName": "Avatar_Layla_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_Bullet",
+			"abilityName": "Avatar_Layla_ElementalBurst_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_Trail",
+			"abilityName": "Avatar_Layla_ElementalBurst_Trail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_ElementalBurst_Hit",
+			"abilityName": "Avatar_Layla_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_Spine_Loop_Nebula",
+			"abilityName": "Avatar_Layla_Spine_Loop_Nebula",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_Spine_Loop_Circle",
+			"abilityName": "Avatar_Layla_Spine_Loop_Circle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_Spine",
+			"abilityName": "Avatar_Layla_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Layla_Spine_Loop_Star",
+			"abilityName": "Avatar_Layla_Spine_Loop_Star",
+			"abilityOverride": ""
+		}
+	]
+}

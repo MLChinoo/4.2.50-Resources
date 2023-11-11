@@ -1,0 +1,94 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Kaeya_ExtraAttack",
+			"abilityName": "Avatar_Kaeya_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_DamageHandler",
+			"abilityName": "Avatar_Kaeya_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_DashStamina_Reduction",
+			"abilityName": "Avatar_Kaeya_DashStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_FallingAnthem",
+			"abilityName": "Avatar_Kaeya_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya",
+			"abilityName": "Avatar_Kaeya",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_TeamConfig_01BS",
+			"abilityName": "Avatar_Kaeya_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_TeamConfig_01Loop",
+			"abilityName": "Avatar_Kaeya_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_TeamConfig_01AS",
+			"abilityName": "Avatar_Kaeya_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementalBurst_Spine",
+			"abilityName": "Avatar_Kaeya_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementalBurst_Spine_Coin",
+			"abilityName": "Avatar_Kaeya_ElementalBurst_Spine_Coin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_Spine",
+			"abilityName": "Avatar_Kaeya_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementalBurst_BS",
+			"abilityName": "Avatar_Kaeya_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementalBurst",
+			"abilityName": "Avatar_Kaeya_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementBurst",
+			"abilityName": "Avatar_Kaeya_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_ElementalBurst_Hit",
+			"abilityName": "Avatar_Kaeya_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_Spine_Loop",
+			"abilityName": "Avatar_Kaeya_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_VO_Emotion_Kaeya_Deny_01",
+			"abilityName": "Avatar_Kaeya_VO_Emotion_Kaeya_Deny_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaeya_VO_MDAQ036_Kaeya_01",
+			"abilityName": "Avatar_Kaeya_VO_MDAQ036_Kaeya_01",
+			"abilityOverride": ""
+		}
+	]
+}

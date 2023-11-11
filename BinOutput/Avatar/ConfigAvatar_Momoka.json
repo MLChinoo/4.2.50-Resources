@@ -1,0 +1,134 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Momoka_ExtraAttack",
+			"abilityName": "Avatar_Momoka_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_Check",
+			"abilityName": "Avatar_Momoka_ElementalArt_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_Click",
+			"abilityName": "Avatar_Momoka_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Momoka_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_AddShieldMode",
+			"abilityName": "Avatar_Momoka_AddShieldMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_Hold",
+			"abilityName": "Avatar_Momoka_ElementalArt_Hold",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_Inactive_Detect",
+			"abilityName": "Avatar_Momoka_ElementalArt_Inactive_Detect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_onReconnect",
+			"abilityName": "Avatar_Momoka_ElementalArt_onReconnect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_HasTeamShield",
+			"abilityName": "Avatar_Momoka_HasTeamShield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_Constellation_AddAttack",
+			"abilityName": "Avatar_Momoka_Constellation_AddAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalArt_Charge_Strike",
+			"abilityName": "Avatar_Momoka_ElementalArt_Charge_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalBurst",
+			"abilityName": "Avatar_Momoka_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_ElementalBurst_ExpressDamage",
+			"abilityName": "Avatar_Momoka_ElementalBurst_ExpressDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Momoka_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_FallingAnthem",
+			"abilityName": "Avatar_Momoka_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_PermanentSkill_2",
+			"abilityName": "Avatar_Momoka_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Momoka_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_Constellation_6",
+			"abilityName": "Avatar_Momoka_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_Constellation_6_ElemDamageUp_Effect",
+			"abilityName": "Avatar_Momoka_Constellation_6_ElemDamageUp_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_Constellation_AddAttack_CDHandler",
+			"abilityName": "Avatar_Momoka_Constellation_AddAttack_CDHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_Constellation_AddAttack_Effect",
+			"abilityName": "Avatar_Momoka_Constellation_AddAttack_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_PermanentSkill_3",
+			"abilityName": "Avatar_Momoka_PermanentSkill_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka",
+			"abilityName": "Avatar_Momoka",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_TeamConfig_01BS",
+			"abilityName": "Avatar_Momoka_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_TeamConfig_01Loop",
+			"abilityName": "Avatar_Momoka_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Momoka_TeamConfig_01AS",
+			"abilityName": "Avatar_Momoka_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

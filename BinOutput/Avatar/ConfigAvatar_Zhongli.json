@@ -1,0 +1,94 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Zhongli_ExtraAttack",
+			"abilityName": "Avatar_Zhongli_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_PillarOrShield_HoldCharge",
+			"abilityName": "Avatar_Zhongli_PillarOrShield_HoldCharge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_SetHairEmissionScaler",
+			"abilityName": "Avatar_Zhongli_SetHairEmissionScaler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_PrimoPillar",
+			"abilityName": "Avatar_Zhongli_PrimoPillar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_RockShield",
+			"abilityName": "Avatar_Zhongli_RockShield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_GeoOrder",
+			"abilityName": "Avatar_Zhongli_GeoOrder",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_RockFever",
+			"abilityName": "Avatar_Zhongli_RockFever",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_NormalAttack",
+			"abilityName": "Avatar_Zhongli_NormalAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_FallingAnthem",
+			"abilityName": "Avatar_Zhongli_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli",
+			"abilityName": "Avatar_Zhongli",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_TeamConfig_01BS",
+			"abilityName": "Avatar_Zhongli_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_TeamConfig_01Loop",
+			"abilityName": "Avatar_Zhongli_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_TeamConfig_01AS",
+			"abilityName": "Avatar_Zhongli_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_ElementalBurst_Spine",
+			"abilityName": "Avatar_Zhongli_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_ElementalBurst_Hit",
+			"abilityName": "Avatar_Zhongli_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_Spine_Loop",
+			"abilityName": "Avatar_Zhongli_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_Spine_Loop_Cloud",
+			"abilityName": "Avatar_Zhongli_Spine_Loop_Cloud",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Zhongli_Sub_Spine",
+			"abilityName": "Avatar_Zhongli_Sub_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

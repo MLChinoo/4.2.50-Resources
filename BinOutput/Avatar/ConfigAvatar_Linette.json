@@ -1,0 +1,199 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Linette_ExtraAttack",
+			"abilityName": "Avatar_Linette_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ArkheGrade",
+			"abilityName": "Avatar_Linette_ArkheGrade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ArkheGrade_CD",
+			"abilityName": "Avatar_Linette_ArkheGrade_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt",
+			"abilityName": "Avatar_Linette_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Linette_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_Executed",
+			"abilityName": "Avatar_Linette_ElementalArt_Executed",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_Short_Strike",
+			"abilityName": "Avatar_Linette_ElementalArt_Short_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_Executed_Strike",
+			"abilityName": "Avatar_Linette_ElementalArt_Executed_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_RushMove",
+			"abilityName": "Avatar_Linette_ElementalArt_RushMove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Constellation_6",
+			"abilityName": "Avatar_Linette_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Constellation_6_WindEnchant",
+			"abilityName": "Avatar_Linette_Constellation_6_WindEnchant",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Constellation_6_DamageUp",
+			"abilityName": "Avatar_Linette_Constellation_6_DamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalArt_Executed_Bullet",
+			"abilityName": "Avatar_Linette_ElementalArt_Executed_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst",
+			"abilityName": "Avatar_Linette_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_PermanentSkill_1",
+			"abilityName": "Avatar_Linette_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_Strike",
+			"abilityName": "Avatar_Linette_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Ice",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Fire",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Fire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Water",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Water",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Electric",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Electric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_HitBox",
+			"abilityName": "Avatar_Linette_ElementalBurst_HitBox",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Constellation_WindZone",
+			"abilityName": "Avatar_Linette_Constellation_WindZone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_PermanentSkill_1_AttackUp",
+			"abilityName": "Avatar_Linette_PermanentSkill_1_AttackUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Linette_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_FallingAnthem",
+			"abilityName": "Avatar_Linette_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Wind",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox_Bullet_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_PermanentSkill_3",
+			"abilityName": "Avatar_Linette_PermanentSkill_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette",
+			"abilityName": "Avatar_Linette",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_MagicBox1Avatar_Linette_ElementalBurst_MagicBox_Bullet_Ice2Avatar_Linette_ElementalBurst_MagicBox_Bullet_Fire3Avatar_Linette_ElementalBurst_MagicBox_Bullet_Water6Avatar_Linette_ElementalBurst_MagicBox_Bullet_Electric",
+			"abilityName": "Avatar_Linette_ElementalBurst_MagicBox1Avatar_Linette_ElementalBurst_MagicBox_Bullet_Ice2Avatar_Linette_ElementalBurst_MagicBox_Bullet_Fire3Avatar_Linette_ElementalBurst_MagicBox_Bullet_Water6Avatar_Linette_ElementalBurst_MagicBox_Bullet_Electric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_TeamConfig_01BS",
+			"abilityName": "Avatar_Linette_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_TeamConfig_01Loop",
+			"abilityName": "Avatar_Linette_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_TeamConfig_01AS",
+			"abilityName": "Avatar_Linette_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_Spine",
+			"abilityName": "Avatar_Linette_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_BS",
+			"abilityName": "Avatar_Linette_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_ElementalBurst_Hit",
+			"abilityName": "Avatar_Linette_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Spine_Loop_Hat",
+			"abilityName": "Avatar_Linette_Spine_Loop_Hat",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Spine",
+			"abilityName": "Avatar_Linette_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Linette_Spine_Loop",
+			"abilityName": "Avatar_Linette_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

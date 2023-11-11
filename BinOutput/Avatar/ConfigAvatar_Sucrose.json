@@ -1,0 +1,244 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Sucrose_ExtraAttack",
+			"abilityName": "Avatar_Sucrose_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack01",
+			"abilityName": "Avatar_Sucrose_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack02",
+			"abilityName": "Avatar_Sucrose_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack03",
+			"abilityName": "Avatar_Sucrose_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack04_Pre",
+			"abilityName": "Avatar_Sucrose_Attack04_Pre",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack04_Gadget",
+			"abilityName": "Avatar_Sucrose_Attack04_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Attack04",
+			"abilityName": "Avatar_Sucrose_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_WindBlackHole",
+			"abilityName": "Avatar_Sucrose_WindBlackHole",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_WindBlackHole_Gadget",
+			"abilityName": "Avatar_Sucrose_WindBlackHole_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane",
+			"abilityName": "Avatar_Sucrose_DemiHurricane",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane_Flusk",
+			"abilityName": "Avatar_Sucrose_DemiHurricane_Flusk",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane_Gadget",
+			"abilityName": "Avatar_Sucrose_DemiHurricane_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane_Dissipate",
+			"abilityName": "Avatar_Sucrose_DemiHurricane_Dissipate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane_Damage",
+			"abilityName": "Avatar_Sucrose_DemiHurricane_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_DemiHurricane_Mix",
+			"abilityName": "Avatar_Sucrose_DemiHurricane_Mix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Contellation_6",
+			"abilityName": "Avatar_Sucrose_Contellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_FallingAnthem",
+			"abilityName": "Avatar_Sucrose_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Handler",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Fire",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Fire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Firec",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Firec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Water",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Water",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Waterc",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Waterc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Ice",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Icec",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Icec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Electric",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Electric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa_Electric2UNIQUE_Avatar_Sucrose_PermanentSkill_Catalysa_Fire",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa_Electric2UNIQUE_Avatar_Sucrose_PermanentSkill_Catalysa_Fire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_NetherWind",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_NetherWind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_NetherWind_Handler",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_NetherWind_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_NetherWind_Buff",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_NetherWind_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_NetherWind_Buff4UNIQUE_Avatar_Sucrose_PermanentSkill_NetherWind_Buff",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_NetherWind_Buff4UNIQUE_Avatar_Sucrose_PermanentSkill_NetherWind_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Sucrose_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid",
+			"abilityName": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid_AddCount",
+			"abilityName": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid_AddCount",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid_ReduceColdDown",
+			"abilityName": "Avatar_Sucrose_NormalAttack_DamageHandler_Paranoid_ReduceColdDown",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Contellation_4",
+			"abilityName": "Avatar_Sucrose_Contellation_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose",
+			"abilityName": "Avatar_Sucrose",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_TeamConfig_01BS",
+			"abilityName": "Avatar_Sucrose_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_TeamConfig_01Loop",
+			"abilityName": "Avatar_Sucrose_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_TeamConfig_01AS",
+			"abilityName": "Avatar_Sucrose_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_ElementBurst",
+			"abilityName": "Avatar_Sucrose_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_ElementalBurst_Spine",
+			"abilityName": "Avatar_Sucrose_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_ElementalBurst_BS",
+			"abilityName": "Avatar_Sucrose_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_ElementalBurst",
+			"abilityName": "Avatar_Sucrose_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_ElementalBurst_Hit",
+			"abilityName": "Avatar_Sucrose_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_elementalBurst_BS_Normal",
+			"abilityName": "Avatar_Sucrose_elementalBurst_BS_Normal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_Spine_Loop",
+			"abilityName": "Avatar_Sucrose_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sucrose_PermanentSkill_Catalysa0Sucrose_PermanentSkill_Catalysa_ElemMasteryDelta",
+			"abilityName": "Avatar_Sucrose_PermanentSkill_Catalysa0Sucrose_PermanentSkill_Catalysa_ElemMasteryDelta",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack",
+			"abilityName": "Avatar_Hutao_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_CrimsonPlum_CreateBullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_CrimsonPlum_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_CrimsonPlum_Bullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_CrimsonPlum_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_KillBullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_KillBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_CrimsonPlum",
+			"abilityName": "Avatar_Hutao_CrimsonPlum",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_PermanentSkill_1",
+			"abilityName": "Avatar_Hutao_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Constellation_Kill",
+			"abilityName": "Avatar_Hutao_Constellation_Kill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Constellation_LifeBonus",
+			"abilityName": "Avatar_Hutao_Constellation_LifeBonus",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_VermilionBite_CameraController",
+			"abilityName": "Avatar_Hutao_VermilionBite_CameraController",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_VermilionBite_PostEffect",
+			"abilityName": "Avatar_Hutao_VermilionBite_PostEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Hutao_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_VermilionBite",
+			"abilityName": "Avatar_Hutao_VermilionBite",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_VermilionBite_BakeMesh",
+			"abilityName": "Avatar_Hutao_VermilionBite_BakeMesh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Sprint_CloseCollider",
+			"abilityName": "Avatar_Hutao_Sprint_CloseCollider",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Constellation_Limbo",
+			"abilityName": "Avatar_Hutao_Constellation_Limbo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Constellation_Limbo_Trigger",
+			"abilityName": "Avatar_Hutao_Constellation_Limbo_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Constellation_Limbo_Trigger2UNIQUE_Hutao_Constellation_Limbo_Untriggered_Limbo",
+			"abilityName": "Avatar_Hutao_Constellation_Limbo_Trigger2UNIQUE_Hutao_Constellation_Limbo_Untriggered_Limbo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_PermanentSkill_2",
+			"abilityName": "Avatar_Hutao_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Hutao_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_FallingAnthem",
+			"abilityName": "Avatar_Hutao_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_DropBall",
+			"abilityName": "Avatar_Hutao_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao",
+			"abilityName": "Avatar_Hutao",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ExtraAttack_Bullet1Avatar_Hutao_ExtraAttack_CrimsonPlum_CreateBullet",
+			"abilityName": "Avatar_Hutao_ExtraAttack_Bullet1Avatar_Hutao_ExtraAttack_CrimsonPlum_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_TeamConfig_01BS",
+			"abilityName": "Avatar_Hutao_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_TeamConfig_01Loop",
+			"abilityName": "Avatar_Hutao_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_TeamConfig_01AS",
+			"abilityName": "Avatar_Hutao_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ElementalBurst_Spine",
+			"abilityName": "Avatar_Hutao_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ElementalBurst_Hit",
+			"abilityName": "Avatar_Hutao_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_ElementArt_Buff",
+			"abilityName": "Avatar_Hutao_ElementArt_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_Spine_Loop",
+			"abilityName": "Avatar_Hutao_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_CrimsonPlum1CrimsonPlum_Debuff_Constellation_LifeBonus_Factor",
+			"abilityName": "Avatar_Hutao_CrimsonPlum1CrimsonPlum_Debuff_Constellation_LifeBonus_Factor",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_CrimsonPlum4CrimsonPlum_Debuff_Constellation_Kill_Critical_Delta",
+			"abilityName": "Avatar_Hutao_CrimsonPlum4CrimsonPlum_Debuff_Constellation_Kill_Critical_Delta",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Hutao_CrimsonPlum3CrimsonPlum_PermanentSkill_CriticalUp_CriticalDelta",
+			"abilityName": "Avatar_Hutao_CrimsonPlum3CrimsonPlum_PermanentSkill_CriticalUp_CriticalDelta",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Bennett_ExtraAttack",
+			"abilityName": "Avatar_Bennett_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_Shake",
+			"abilityName": "Avatar_Bennett_Shake",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Handler",
+			"abilityName": "Avatar_Bennett_ElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike01_01",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike01_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike02_01",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike02_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike02_02",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike02_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike02_03",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike02_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike03_01",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike03_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Strike03_02",
+			"abilityName": "Avatar_Bennett_ElementalArt_Strike03_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalArt_Explode",
+			"abilityName": "Avatar_Bennett_ElementalArt_Explode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst_Strike",
+			"abilityName": "Avatar_Bennett_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst",
+			"abilityName": "Avatar_Bennett_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst_Gadget",
+			"abilityName": "Avatar_Bennett_ElementalBurst_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_NormalAttackDamage",
+			"abilityName": "Avatar_Bennett_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_FallingAnthem",
+			"abilityName": "Avatar_Bennett_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett",
+			"abilityName": "Avatar_Bennett",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_TeamConfig_01BS",
+			"abilityName": "Avatar_Bennett_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_TeamConfig_01Loop",
+			"abilityName": "Avatar_Bennett_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_TeamConfig_01AS",
+			"abilityName": "Avatar_Bennett_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst_Spine",
+			"abilityName": "Avatar_Bennett_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst_BS",
+			"abilityName": "Avatar_Bennett_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_ElementalBurst_Hit",
+			"abilityName": "Avatar_Bennett_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_elementalBurst_BS_Normal",
+			"abilityName": "Avatar_Bennett_elementalBurst_BS_Normal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_Spine_Loop",
+			"abilityName": "Avatar_Bennett_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_Spine_Loop_Star",
+			"abilityName": "Avatar_Bennett_Spine_Loop_Star",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Bennett_Spine",
+			"abilityName": "Avatar_Bennett_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,264 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Strike",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_NormalAttack_Damage_Handler",
+			"abilityName": "Avatar_Wriothesley_NormalAttack_Damage_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Handler",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Handler0Avatar_Wriothesley_AttackSpeed_Buff_Team_Handler",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Handler0Avatar_Wriothesley_AttackSpeed_Buff_Team_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Timer",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Team_Timer",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Team_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Handler",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Self_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Self0Avatar_Wriothesley_AttackSpeed_Buff_Team_Handler",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Self0Avatar_Wriothesley_AttackSpeed_Buff_Team_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Team",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Team",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_AttackSpeed_Buff_Self",
+			"abilityName": "Avatar_Wriothesley_AttackSpeed_Buff_Self",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalArt_Buff",
+			"abilityName": "Avatar_Wriothesley_ElementalArt_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalArt_Buff_Handler",
+			"abilityName": "Avatar_Wriothesley_ElementalArt_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_NormalAttack_Buff_Handler",
+			"abilityName": "Avatar_Wriothesley_NormalAttack_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalArt_LoseHP",
+			"abilityName": "Avatar_Wriothesley_ElementalArt_LoseHP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalArt_GenerateEnergy",
+			"abilityName": "Avatar_Wriothesley_ElementalArt_GenerateEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_CD_Handler",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_CD_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_Predicate",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_Predicate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_CD",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_Trigger",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_Handler",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Buff_HealHP",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Buff_HealHP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalArt_Buff_HandlerM",
+			"abilityName": "Avatar_Wriothesley_ElementalArt_Buff_HandlerM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalBurst_Cast",
+			"abilityName": "Avatar_Wriothesley_ElementalBurst_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Wriothesley_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalBurst_Bullet",
+			"abilityName": "Avatar_Wriothesley_ElementalBurst_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ElementalBurst_Arkhe_CD_Handler2Avatar_Wriothesley_ElementalBurst_Arkhe_CD_Handler",
+			"abilityName": "Avatar_Wriothesley_ElementalBurst_Arkhe_CD_Handler2Avatar_Wriothesley_ElementalBurst_Arkhe_CD_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_FallingAnthem",
+			"abilityName": "Avatar_Wriothesley_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_Handler3",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_Handler3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_L_Handler",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_L_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_R_Handler",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_R_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_L_Dissolve",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_L_Dissolve",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_R_Dissolve",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_R_Dissolve",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_L_Enable",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_L_Enable",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_R_Enable",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_R_Enable",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_ElementalBurst_Dissolveff",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_ElementalBurst_Dissolveff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_Handler_VFX",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_Handler_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_Initialize_2",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_Initialize_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_L_Disable",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_L_Disable",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_R_Disable",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_R_Disable",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_L_Disabler",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_L_Disabler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_R_Disabler",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_R_Disabler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_ElementalBurst_Dissolve",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_ElementalBurst_Dissolve",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_Initialize",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley",
+			"abilityName": "Avatar_Wriothesley",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_TeamConfig_01BS",
+			"abilityName": "Avatar_Wriothesley_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_TeamConfig_01Loop",
+			"abilityName": "Avatar_Wriothesley_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_TeamConfig_01AS",
+			"abilityName": "Avatar_Wriothesley_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_Gauntlet_Handler",
+			"abilityName": "Avatar_Wriothesley_Gauntlet_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Strike0Wriothesley_ExtraAttack_Constellation_6_CritRate",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Strike0Wriothesley_ExtraAttack_Constellation_6_CritRate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wriothesley_ExtraAttack_Strike0Wriothesley_ExtraAttack_Constellation_6_CritHurt",
+			"abilityName": "Avatar_Wriothesley_ExtraAttack_Strike0Wriothesley_ExtraAttack_Constellation_6_CritHurt",
+			"abilityOverride": ""
+		}
+	]
+}

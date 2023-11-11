@@ -1,0 +1,119 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Yunjin_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Yunjin_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ExtraAttack",
+			"abilityName": "Avatar_Yunjin_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ExtraAttack_Cast",
+			"abilityName": "Avatar_Yunjin_ExtraAttack_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Yunjin_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_FallingAnthem",
+			"abilityName": "Avatar_Yunjin_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalArt_Handler",
+			"abilityName": "Avatar_Yunjin_ElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalArt_Remover",
+			"abilityName": "Avatar_Yunjin_ElementalArt_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_Kaoqi",
+			"abilityName": "Avatar_Yunjin_Kaoqi",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_Kaoqi_Reset",
+			"abilityName": "Avatar_Yunjin_Kaoqi_Reset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_Kaoqi_Remover",
+			"abilityName": "Avatar_Yunjin_Kaoqi_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalArt_Strike",
+			"abilityName": "Avatar_Yunjin_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalArt_Strike_VFX",
+			"abilityName": "Avatar_Yunjin_ElementalArt_Strike_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalArt_Strike_Weather",
+			"abilityName": "Avatar_Yunjin_ElementalArt_Strike_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalBurst_Cast",
+			"abilityName": "Avatar_Yunjin_ElementalBurst_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalBurst_Buff_Handler",
+			"abilityName": "Avatar_Yunjin_ElementalBurst_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalBurst_Buff",
+			"abilityName": "Avatar_Yunjin_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalBurst_Reset",
+			"abilityName": "Avatar_Yunjin_ElementalBurst_Reset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_ElementalBurst_Buff_VFX",
+			"abilityName": "Avatar_Yunjin_ElementalBurst_Buff_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_Buff_VFX_Remover",
+			"abilityName": "Avatar_Yunjin_Buff_VFX_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin",
+			"abilityName": "Avatar_Yunjin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_TeamConfig_01BS",
+			"abilityName": "Avatar_Yunjin_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_TeamConfig_01Loop",
+			"abilityName": "Avatar_Yunjin_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yunjin_TeamConfig_01AS",
+			"abilityName": "Avatar_Yunjin_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

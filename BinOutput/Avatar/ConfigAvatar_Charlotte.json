@@ -1,0 +1,439 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack",
+			"abilityName": "Avatar_Charlotte_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack01",
+			"abilityName": "Avatar_Charlotte_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack01_onMonster",
+			"abilityName": "Avatar_Charlotte_Attack01_onMonster",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack01_onGadget",
+			"abilityName": "Avatar_Charlotte_Attack01_onGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack01_None",
+			"abilityName": "Avatar_Charlotte_Attack01_None",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack02",
+			"abilityName": "Avatar_Charlotte_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack02_onMonster",
+			"abilityName": "Avatar_Charlotte_Attack02_onMonster",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack02_onGadget",
+			"abilityName": "Avatar_Charlotte_Attack02_onGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack02_None",
+			"abilityName": "Avatar_Charlotte_Attack02_None",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Attack03",
+			"abilityName": "Avatar_Charlotte_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_DoAttack",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_DoAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_Gadget",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_GadgetEffect",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_GadgetEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_Damage",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_Arkhe_Strike",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_Arkhe_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_Arkhe_CDTimer_",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_Arkhe_CDTimer_",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ExtraAttack_Arkhe_CDTimer",
+			"abilityName": "Avatar_Charlotte_ExtraAttack_Arkhe_CDTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt",
+			"abilityName": "Avatar_Charlotte_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Charlotte_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Click",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Click_Strike",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Click_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Click_CameraReborn",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Click_CameraReborn",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArtHold_RayCast",
+			"abilityName": "Avatar_Charlotte_ElementalArtHold_RayCast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_InAim_SetGV",
+			"abilityName": "Avatar_Charlotte_RayCast_InAim_SetGV",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Trigger",
+			"abilityName": "Avatar_Charlotte_RayCast_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_CloseFx",
+			"abilityName": "Avatar_Charlotte_RayCast_CloseFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Handler",
+			"abilityName": "Avatar_Charlotte_RayCast_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Camera_Fx",
+			"abilityName": "Avatar_Charlotte_RayCast_Camera_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_HoldTimeChangeRayCast",
+			"abilityName": "Avatar_Charlotte_HoldTimeChangeRayCast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_InHoldTime",
+			"abilityName": "Avatar_Charlotte_InHoldTime",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_MaxHoldTime_TriggerDot",
+			"abilityName": "Avatar_Charlotte_MaxHoldTime_TriggerDot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_CloseFx_Detect",
+			"abilityName": "Avatar_Charlotte_RayCast_CloseFx_Detect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_InterruptFx",
+			"abilityName": "Avatar_Charlotte_RayCast_InterruptFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_CountLayerHandler",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_CountLayerHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_CountLayerHandler02",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_CountLayerHandler02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_ScreenEffect",
+			"abilityName": "Avatar_Charlotte_ElementalArt_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Dot_Handler",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Dot_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Weak",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Weak",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Strong",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Strong",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_6",
+			"abilityName": "Avatar_Charlotte_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Strong8UNIQUE_Charlotte_Constellation_ExtraCameraAttack_Trigger",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Effect_Strong8UNIQUE_Charlotte_Constellation_ExtraCameraAttack_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Weak",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Weak",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Strong",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Strong",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_ToFullLayer",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_ToFullLayer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Damage",
+			"abilityName": "Avatar_Charlotte_RayCast_Bomb_OnMonster_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_RayCast_Camera_Fx_OnTeam",
+			"abilityName": "Avatar_Charlotte_RayCast_Camera_Fx_OnTeam",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_HoldTimeChangeRayCast_Trigger",
+			"abilityName": "Avatar_Charlotte_HoldTimeChangeRayCast_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_TagNum_Clear",
+			"abilityName": "Avatar_Charlotte_ElementalArt_TagNum_Clear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Click_AddDotHandler",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Click_AddDotHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_TagNum_Clear0Avatar_Charlotte_ElementalArt_Hold_AddDotHandler",
+			"abilityName": "Avatar_Charlotte_ElementalArt_TagNum_Clear0Avatar_Charlotte_ElementalArt_Hold_AddDotHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Hold_AddDotHandler",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Hold_AddDotHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_WidgetMode",
+			"abilityName": "Avatar_Charlotte_ElementalArt_WidgetMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_WidgetMode_Check",
+			"abilityName": "Avatar_Charlotte_ElementalArt_WidgetMode_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalArt_Loop_WidgetMode",
+			"abilityName": "Avatar_Charlotte_ElementalArt_Loop_WidgetMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalBurst_Init",
+			"abilityName": "Avatar_Charlotte_ElementalBurst_Init",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_ElementalBurst",
+			"abilityName": "Avatar_Charlotte_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_FallingAnthem",
+			"abilityName": "Avatar_Charlotte_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_WaistCamera_DisAppear",
+			"abilityName": "Avatar_Charlotte_WaistCamera_DisAppear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_WaistCamera_Appear",
+			"abilityName": "Avatar_Charlotte_WaistCamera_Appear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_PermanentSkill_1",
+			"abilityName": "Avatar_Charlotte_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_PermanentSkill_1_Handler",
+			"abilityName": "Avatar_Charlotte_PermanentSkill_1_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_PermanentSkill_2",
+			"abilityName": "Avatar_Charlotte_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_PermanentSkill_2_IsNotFengdan",
+			"abilityName": "Avatar_Charlotte_PermanentSkill_2_IsNotFengdan",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_PermanentSkill_2_NotFengdanCount",
+			"abilityName": "Avatar_Charlotte_PermanentSkill_2_NotFengdanCount",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_Extra_Hot",
+			"abilityName": "Avatar_Charlotte_Constellation_Extra_Hot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_Extra_Hot_Handler",
+			"abilityName": "Avatar_Charlotte_Constellation_Extra_Hot_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_Extra_Hot_EffectHandler",
+			"abilityName": "Avatar_Charlotte_Constellation_Extra_Hot_EffectHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_Extra_Hot_Tick",
+			"abilityName": "Avatar_Charlotte_Constellation_Extra_Hot_Tick",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ElementalArt_AddAtkUp",
+			"abilityName": "Avatar_Charlotte_Constellation_ElementalArt_AddAtkUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ElementalArt_AddAtk_ClearCount",
+			"abilityName": "Avatar_Charlotte_Constellation_ElementalArt_AddAtk_ClearCount",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ReviveElemEnergy",
+			"abilityName": "Avatar_Charlotte_Constellation_ReviveElemEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ExtraCamera_Gadget",
+			"abilityName": "Avatar_Charlotte_Constellation_ExtraCamera_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ExtraCamera_Effect",
+			"abilityName": "Avatar_Charlotte_Constellation_ExtraCamera_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte",
+			"abilityName": "Avatar_Charlotte",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_Extra_Hot4Avatar_Charlotte_Constellation_ElementalArt_AddAtkUp",
+			"abilityName": "Avatar_Charlotte_Constellation_Extra_Hot4Avatar_Charlotte_Constellation_ElementalArt_AddAtkUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalArt_Click0Emo_Avatar_Charlotte_Skill_ElementalArt_Click_AS0Emo_Avatar_Charlotte_Skill_ElementalArt_AimFocus1Emo_Avatar_Charlotte_Skill_ElementalArt_QuitFocus4Emo_Avatar_Charlotte_Skill_ElementalArt_QuitFocus_AS",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalArt_Click0Emo_Avatar_Charlotte_Skill_ElementalArt_Click_AS0Emo_Avatar_Charlotte_Skill_ElementalArt_AimFocus1Emo_Avatar_Charlotte_Skill_ElementalArt_QuitFocus4Emo_Avatar_Charlotte_Skill_ElementalArt_QuitFocus_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalBurst",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_TeamConfig_01BS",
+			"abilityName": "Avatar_Charlotte_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_TeamConfig_01Loop",
+			"abilityName": "Avatar_Charlotte_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_TeamConfig_01AS",
+			"abilityName": "Avatar_Charlotte_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalArt_AimFocus",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalArt_AimFocus",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalArt_QuitFocus",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalArt_QuitFocus",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalArt_QuitFocus_AS",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalArt_QuitFocus_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Skill_ElementalBurst_AS",
+			"abilityName": "Avatar_Charlotte_Skill_ElementalBurst_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Charlotte_Constellation_ExtraCamera_Gadget1Avatar_Charlotte_Constellation_ExtraCamera_Gadget",
+			"abilityName": "Avatar_Charlotte_Constellation_ExtraCamera_Gadget1Avatar_Charlotte_Constellation_ExtraCamera_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarIcon_Charlotte",
+			"abilityName": "AvatarIcon_Charlotte",
+			"abilityOverride": ""
+		}
+	]
+}

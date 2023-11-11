@@ -1,0 +1,119 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Heizo_ExtraAttack",
+			"abilityName": "Avatar_Heizo_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_NormalAttack_Handler",
+			"abilityName": "Avatar_Heizo_NormalAttack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalArt_Handler",
+			"abilityName": "Avatar_Heizo_ElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalArt_Reset",
+			"abilityName": "Avatar_Heizo_ElementalArt_Reset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalArt_Strike",
+			"abilityName": "Avatar_Heizo_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalArt_Strike_Max",
+			"abilityName": "Avatar_Heizo_ElementalArt_Strike_Max",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_Strike",
+			"abilityName": "Avatar_Heizo_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Heizo_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindHole",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindHole",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_HitCheck",
+			"abilityName": "Avatar_Heizo_ElementalBurst_HitCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_SetElementBomb",
+			"abilityName": "Avatar_Heizo_ElementalBurst_SetElementBomb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Default_Handler",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Default_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Handler",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Monster_Small",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Monster_Small",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Monster_Big",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Monster_Big",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Other2Avatar_Heizo_ElementalBurst_WindZone_Monster_Small",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Other2Avatar_Heizo_ElementalBurst_WindZone_Monster_Small",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_ElementalBurst_WindZone_Other",
+			"abilityName": "Avatar_Heizo_ElementalBurst_WindZone_Other",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_FallingAnthem",
+			"abilityName": "Avatar_Heizo_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_DashStamina_Reduction",
+			"abilityName": "Avatar_Heizo_DashStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo",
+			"abilityName": "Avatar_Heizo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_TeamConfig_01BS",
+			"abilityName": "Avatar_Heizo_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_TeamConfig_01Loop",
+			"abilityName": "Avatar_Heizo_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Heizo_TeamConfig_01AS",
+			"abilityName": "Avatar_Heizo_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,139 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Shinobu_ExtraAttack",
+			"abilityName": "Avatar_Shinobu_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_NormalAttack_Handler",
+			"abilityName": "Avatar_Shinobu_NormalAttack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_Init",
+			"abilityName": "Avatar_Shinobu_ElementalArt_Init",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_ElemBall_Handler",
+			"abilityName": "Avatar_Shinobu_ElementalArt_ElemBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt",
+			"abilityName": "Avatar_Shinobu_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_Constellation_Attack_Handler",
+			"abilityName": "Avatar_Shinobu_ElementalArt_Constellation_Attack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_Bullet_KillGadget",
+			"abilityName": "Avatar_Shinobu_ElementalArt_Bullet_KillGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_ElemBall",
+			"abilityName": "Avatar_Shinobu_ElementalArt_ElemBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation_Attack_Detect",
+			"abilityName": "Avatar_Shinobu_Constellation_Attack_Detect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation_AddAttack",
+			"abilityName": "Avatar_Shinobu_Constellation_AddAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_TickLogic",
+			"abilityName": "Avatar_Shinobu_ElementalArt_TickLogic",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalArt_TickLogic_Effect",
+			"abilityName": "Avatar_Shinobu_ElementalArt_TickLogic_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation_AddAttack_IntoCD",
+			"abilityName": "Avatar_Shinobu_Constellation_AddAttack_IntoCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation_AddAttack_Effect",
+			"abilityName": "Avatar_Shinobu_Constellation_AddAttack_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalBurst",
+			"abilityName": "Avatar_Shinobu_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_ElementalBurst_Init",
+			"abilityName": "Avatar_Shinobu_ElementalBurst_Init",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Shinobu_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_FallingAnthem",
+			"abilityName": "Avatar_Shinobu_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_PermanentSkill_WhenLowHp",
+			"abilityName": "Avatar_Shinobu_PermanentSkill_WhenLowHp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_PermanentSkill_HealUpWhenLowHp",
+			"abilityName": "Avatar_Shinobu_PermanentSkill_HealUpWhenLowHp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation6_Limbo",
+			"abilityName": "Avatar_Shinobu_Constellation6_Limbo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation6_Limbo_Trigger_Protect",
+			"abilityName": "Avatar_Shinobu_Constellation6_Limbo_Trigger_Protect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_Constellation6_Limbo_Trigger_ElemMastery",
+			"abilityName": "Avatar_Shinobu_Constellation6_Limbo_Trigger_ElemMastery",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu",
+			"abilityName": "Avatar_Shinobu",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_TeamConfig_01BS",
+			"abilityName": "Avatar_Shinobu_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_TeamConfig_01Loop",
+			"abilityName": "Avatar_Shinobu_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shinobu_TeamConfig_01AS",
+			"abilityName": "Avatar_Shinobu_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

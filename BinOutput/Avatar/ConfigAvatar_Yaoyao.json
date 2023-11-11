@@ -1,0 +1,209 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Yaoyao_ExtraAttack",
+			"abilityName": "Avatar_Yaoyao_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Yaoyao_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Yaoyao_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt",
+			"abilityName": "Avatar_Yaoyao_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_CreateRabbit",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_CreateRabbit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_CreateRabbitM",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_CreateRabbitM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_CreateGadget",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_CreateGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_StrikeL7",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_StrikeL7",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Strike",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_CreateGadget",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_CreateGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Yaoyao_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_FallingAnthem",
+			"abilityName": "Avatar_Yaoyao_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Turnip_Bullet",
+			"abilityName": "Avatar_Yaoyao_Turnip_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Turnip",
+			"abilityName": "Avatar_Yaoyao_Turnip",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Golden_Turnip_Bullet",
+			"abilityName": "Avatar_Yaoyao_Golden_Turnip_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Golden_Turnip",
+			"abilityName": "Avatar_Yaoyao_Golden_Turnip",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Turnip_Bullet_Parabola",
+			"abilityName": "Avatar_Yaoyao_Turnip_Bullet_Parabola",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_Rabbit",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_Rabbit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_CreateGadgeth",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_CreateGadgeth",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw_Speed_Fix",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw_Speed_Fix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Rabbit",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Rabbit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw_Pre",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw_Pre",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_CreateGadgeth",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_CreateGadgeth",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Rabbit_Throw",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_PermanentSkill_1",
+			"abilityName": "Avatar_Yaoyao_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_PermanentSkill_2",
+			"abilityName": "Avatar_Yaoyao_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao",
+			"abilityName": "Avatar_Yaoyao",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw1Avatar_Yaoyao_ElementalArt_Rabbit_Throw_Speed_Fix",
+			"abilityName": "Avatar_Yaoyao_ElementalArt_Rabbit_Throw1Avatar_Yaoyao_ElementalArt_Rabbit_Throw_Speed_Fix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_TeamConfig_01BS",
+			"abilityName": "Avatar_Yaoyao_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_TeamConfig_01Loop",
+			"abilityName": "Avatar_Yaoyao_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_TeamConfig_01AS",
+			"abilityName": "Avatar_Yaoyao_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Spine",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_BS_Rabbit",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_BS_Rabbit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_BS",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementBurst",
+			"abilityName": "Avatar_Yaoyao_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Hit",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_ElementalBurst_Buff",
+			"abilityName": "Avatar_Yaoyao_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yaoyao_Spine_Loop",
+			"abilityName": "Avatar_Yaoyao_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

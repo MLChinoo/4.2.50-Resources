@@ -1,0 +1,114 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Tohma_ExtraAttack",
+			"abilityName": "Avatar_Tohma_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Tohma_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Tohma_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalArt_Handler",
+			"abilityName": "Avatar_Tohma_ElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_HasTeamShield",
+			"abilityName": "Avatar_Tohma_HasTeamShield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_Has_ELementalBurstBuff",
+			"abilityName": "Avatar_Tohma_Has_ELementalBurstBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalArt_Strike",
+			"abilityName": "Avatar_Tohma_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalBurst_Start",
+			"abilityName": "Avatar_Tohma_ElementalBurst_Start",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalBurst_Buff_Handler",
+			"abilityName": "Avatar_Tohma_ElementalBurst_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalBurstPos",
+			"abilityName": "Avatar_Tohma_ElementalBurstPos",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalBurstDir",
+			"abilityName": "Avatar_Tohma_ElementalBurstDir",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_ElementalBurst_TriggerAttack",
+			"abilityName": "Avatar_Tohma_ElementalBurst_TriggerAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Tohma_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_FallingAnthem",
+			"abilityName": "Avatar_Tohma_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma",
+			"abilityName": "Avatar_Tohma",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_Skill_ElementalArt",
+			"abilityName": "Avatar_Tohma_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Tohma_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_Skill_ElementalBurst",
+			"abilityName": "Avatar_Tohma_Skill_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_TeamConfig_01BS",
+			"abilityName": "Avatar_Tohma_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_TeamConfig_01Loop",
+			"abilityName": "Avatar_Tohma_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_TeamConfig_01AS",
+			"abilityName": "Avatar_Tohma_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tohma_Skill_ElementalBurst_AS",
+			"abilityName": "Avatar_Tohma_Skill_ElementalBurst_AS",
+			"abilityOverride": ""
+		}
+	]
+}

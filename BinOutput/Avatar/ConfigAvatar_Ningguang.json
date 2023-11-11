@@ -1,0 +1,289 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Ningguang_Roulette",
+			"abilityName": "Avatar_Ningguang_Roulette",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ExtraAttack",
+			"abilityName": "Avatar_Ningguang_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ExtraAttack_Fx",
+			"abilityName": "Avatar_Ningguang_ExtraAttack_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ExtraAttack_BulletTrigger",
+			"abilityName": "Avatar_Ningguang_ExtraAttack_BulletTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Constellation_Attack_Up_BulletTrigger",
+			"abilityName": "Avatar_Ningguang_Constellation_Attack_Up_BulletTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ExtraAttack_GemBullet_Handler",
+			"abilityName": "Avatar_Ningguang_ExtraAttack_GemBullet_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ExtraAttack_Damage",
+			"abilityName": "Avatar_Ningguang_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_NormalAttack_Dummy",
+			"abilityName": "Avatar_Ningguang_NormalAttack_Dummy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_NormalAttackDamage",
+			"abilityName": "Avatar_Ningguang_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_NormalAttack_LifeOver_Fx",
+			"abilityName": "Avatar_Ningguang_NormalAttack_LifeOver_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Elemental_Burst_LifeOver_Orange",
+			"abilityName": "Avatar_Ningguang_Elemental_Burst_LifeOver_Orange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Elemental_Burst_LifeOver_Red",
+			"abilityName": "Avatar_Ningguang_Elemental_Burst_LifeOver_Red",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Elemental_Burst_LifeOver_Yellow",
+			"abilityName": "Avatar_Ningguang_Elemental_Burst_LifeOver_Yellow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Attack01",
+			"abilityName": "Avatar_Ningguang_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Attack02",
+			"abilityName": "Avatar_Ningguang_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Attack03",
+			"abilityName": "Avatar_Ningguang_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Attack04",
+			"abilityName": "Avatar_Ningguang_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ServantStone",
+			"abilityName": "Avatar_Ningguang_ServantStone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Charge_ServantStone",
+			"abilityName": "Avatar_Ningguang_Charge_ServantStone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Change_Gadget_BornState",
+			"abilityName": "Avatar_Ningguang_Change_Gadget_BornState",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ServantStone_Switch",
+			"abilityName": "Avatar_Ningguang_ServantStone_Switch",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Trigger_ElementalArt_CD",
+			"abilityName": "Avatar_Ningguang_Trigger_ElementalArt_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_GemStone_Impact",
+			"abilityName": "Avatar_Ningguang_GemStone_Impact",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_BulletTrigger",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_BulletTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_BulletTrigger_WithOutTarget",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_BulletTrigger_WithOutTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_ServantStoneTrigger",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_ServantStoneTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_1",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_2",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_3",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Bullet_Hit_Fx_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ReviveElemEnergy",
+			"abilityName": "Avatar_Ningguang_ReviveElemEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Constellation_6",
+			"abilityName": "Avatar_Ningguang_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_PermanentSkill_2",
+			"abilityName": "Avatar_Ningguang_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_SkillUpgrade_3",
+			"abilityName": "Avatar_Ningguang_SkillUpgrade_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_GemBullet_Damage",
+			"abilityName": "Avatar_Ningguang_GemBullet_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_FallingAnthem",
+			"abilityName": "Avatar_Ningguang_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Radar_Ore",
+			"abilityName": "Avatar_Ningguang_Radar_Ore",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang",
+			"abilityName": "Avatar_Ningguang",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_NormalAttack_LifeOver_Fx0Avatar_Ningguang_Elemental_Burst_LifeOver_Orange",
+			"abilityName": "Avatar_Ningguang_NormalAttack_LifeOver_Fx0Avatar_Ningguang_Elemental_Burst_LifeOver_Orange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Elemental_Burst_LifeOver_Red0Avatar_Ningguang_Elemental_Burst_LifeOver_Yellow",
+			"abilityName": "Avatar_Ningguang_Elemental_Burst_LifeOver_Red0Avatar_Ningguang_Elemental_Burst_LifeOver_Yellow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_BulletTrigger_WithOutTarget3Avatar_Ningguang_ElementalBurst_ServantStoneTrigger",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_BulletTrigger_WithOutTarget3Avatar_Ningguang_ElementalBurst_ServantStoneTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_TeamConfig_01BS",
+			"abilityName": "Avatar_Ningguang_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_TeamConfig_01Loop",
+			"abilityName": "Avatar_Ningguang_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_TeamConfig_01AS",
+			"abilityName": "Avatar_Ningguang_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Spine",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_BS",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Yellow",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Yellow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_01",
+			"abilityName": "Avatar_Ningguang_ElementBurst_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_04",
+			"abilityName": "Avatar_Ningguang_ElementBurst_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Orange",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Orange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_02",
+			"abilityName": "Avatar_Ningguang_ElementBurst_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_05",
+			"abilityName": "Avatar_Ningguang_ElementBurst_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Red",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Red",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_03",
+			"abilityName": "Avatar_Ningguang_ElementBurst_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementBurst_06",
+			"abilityName": "Avatar_Ningguang_ElementBurst_06",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_ElementalBurst_Hit",
+			"abilityName": "Avatar_Ningguang_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_elementalBurst_BS_Normal",
+			"abilityName": "Avatar_Ningguang_elementalBurst_BS_Normal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ningguang_Spine_Loop",
+			"abilityName": "Avatar_Ningguang_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

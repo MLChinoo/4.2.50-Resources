@@ -1,0 +1,304 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Qin_ExtraAttack",
+			"abilityName": "Avatar_Qin_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VortexSmash",
+			"abilityName": "Avatar_Qin_VortexSmash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind_Camera",
+			"abilityName": "Avatar_Qin_DandelionWind_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind",
+			"abilityName": "Avatar_Qin_DandelionWind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind_Heal",
+			"abilityName": "Avatar_Qin_DandelionWind_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind_Harm",
+			"abilityName": "Avatar_Qin_DandelionWind_Harm",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind_Harm_FieldDamage",
+			"abilityName": "Avatar_Qin_DandelionWind_Harm_FieldDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_DandelionWind_Push",
+			"abilityName": "Avatar_Qin_DandelionWind_Push",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_HinowaSlash",
+			"abilityName": "Avatar_Qin_HinowaSlash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_GreaterSelfHeal",
+			"abilityName": "Avatar_Qin_GreaterSelfHeal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_AttackCritic",
+			"abilityName": "Avatar_Qin_AttackCritic",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_TeamSpeedWhenGetElementBall",
+			"abilityName": "Avatar_Qin_TeamSpeedWhenGetElementBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_NormalAttackDamage",
+			"abilityName": "Avatar_Qin_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_AutoDefend",
+			"abilityName": "Avatar_Qin_AutoDefend",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_FallingAnthem",
+			"abilityName": "Avatar_Qin_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin",
+			"abilityName": "Avatar_Qin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayQin01BS_0",
+			"abilityName": "Avatar_PlayQin01BS_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayQin01Loop_0",
+			"abilityName": "Avatar_PlayQin01Loop_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayQin01AS_0",
+			"abilityName": "Avatar_PlayQin01AS_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Common_PlayMusic_Qin",
+			"abilityName": "Avatar_Common_PlayMusic_Qin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_Charge",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_Charge_02",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_Charge_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_Charge_AS",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_Charge_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_Fly",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_Fly",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_Fly_AS",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_Fly_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_FlyAir",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_FlyAir",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_TeamConfig_01BS",
+			"abilityName": "Avatar_Qin_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_TeamConfig_01Loop",
+			"abilityName": "Avatar_Qin_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_TeamConfig_01AS",
+			"abilityName": "Avatar_Qin_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_AS",
+			"abilityName": "Avatar_PlayMusic_Qin_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin",
+			"abilityName": "Avatar_PlayMusic_Qin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_KeQing_Skill_ElementalArt_FlyAir_AS",
+			"abilityName": "Avatar_KeQing_Skill_ElementalArt_FlyAir_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_ElementalBurst_Spine",
+			"abilityName": "Avatar_Qin_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_ElementalBurst",
+			"abilityName": "Avatar_Qin_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_Spine_Loop",
+			"abilityName": "Avatar_Qin_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_MDAQ037_Qin_01",
+			"abilityName": "Avatar_Qin_VO_MDAQ037_Qin_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_Emotion_Qin_Hesitate_01",
+			"abilityName": "Avatar_Qin_VO_Emotion_Qin_Hesitate_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_Emotion_Qin_Vigilant_01",
+			"abilityName": "Avatar_Qin_VO_Emotion_Qin_Vigilant_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_Emotion_Qin_Affirm_01",
+			"abilityName": "Avatar_Qin_VO_Emotion_Qin_Affirm_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_Emotion_Qin_Satisfaction_01",
+			"abilityName": "Avatar_Qin_VO_Emotion_Qin_Satisfaction_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_VO_MDAQ053_Qin_01",
+			"abilityName": "Avatar_Qin_VO_MDAQ053_Qin_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901001",
+			"abilityName": "Avatar_Qin_4901001",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901004",
+			"abilityName": "Avatar_Qin_4901004",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901006",
+			"abilityName": "Avatar_Qin_4901006",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901008",
+			"abilityName": "Avatar_Qin_4901008",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901010",
+			"abilityName": "Avatar_Qin_4901010",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901011",
+			"abilityName": "Avatar_Qin_4901011",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901013",
+			"abilityName": "Avatar_Qin_4901013",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901014",
+			"abilityName": "Avatar_Qin_4901014",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901015",
+			"abilityName": "Avatar_Qin_4901015",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901017",
+			"abilityName": "Avatar_Qin_4901017",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qin_4901019",
+			"abilityName": "Avatar_Qin_4901019",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_01_AS",
+			"abilityName": "Avatar_PlayMusic_Qin_01_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_01",
+			"abilityName": "Avatar_PlayMusic_Qin_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_01_Loli",
+			"abilityName": "Avatar_PlayMusic_Qin_01_Loli",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_Loli",
+			"abilityName": "Avatar_PlayMusic_Qin_Loli",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_PlayMusic_Qin_Loli_AS",
+			"abilityName": "Avatar_PlayMusic_Qin_Loli_AS",
+			"abilityOverride": ""
+		}
+	]
+}

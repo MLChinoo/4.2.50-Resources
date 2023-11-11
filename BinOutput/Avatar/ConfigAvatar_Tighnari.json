@@ -1,0 +1,189 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Tighnari_PressShoot",
+			"abilityName": "Avatar_Tighnari_PressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_AimPressShoot",
+			"abilityName": "Avatar_Tighnari_AimPressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootAimingArrow_Charge",
+			"abilityName": "Avatar_Tighnari_ShootAimingArrow_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_Aiming",
+			"abilityName": "Avatar_Tighnari_ShootArrow_Aiming",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_PermanentSkill_1P",
+			"abilityName": "Avatar_Tighnari_PermanentSkill_1P",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_PermanentSkill_1",
+			"abilityName": "Avatar_Tighnari_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_01",
+			"abilityName": "Avatar_Tighnari_ShootArrow_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_02",
+			"abilityName": "Avatar_Tighnari_ShootArrow_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_03",
+			"abilityName": "Avatar_Tighnari_ShootArrow_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_03_01",
+			"abilityName": "Avatar_Tighnari_ShootArrow_03_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ShootArrow_04",
+			"abilityName": "Avatar_Tighnari_ShootArrow_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalArt",
+			"abilityName": "Avatar_Tighnari_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst",
+			"abilityName": "Avatar_Tighnari_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_BulletTrigger",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_BulletTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_Bullet_Damage1",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_Bullet_Damage1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_Bullet_Damage2",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_Bullet_Damage2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_PermanentSkill_2",
+			"abilityName": "Avatar_Tighnari_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_FallingAnthem",
+			"abilityName": "Avatar_Tighnari_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_Radar_Collectables_Sumeru",
+			"abilityName": "Avatar_Tighnari_Radar_Collectables_Sumeru",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari",
+			"abilityName": "Avatar_Tighnari",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_TeamConfig_01BS",
+			"abilityName": "Avatar_Tighnari_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_TeamConfig_01Loop",
+			"abilityName": "Avatar_Tighnari_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_TeamConfig_01AS",
+			"abilityName": "Avatar_Tighnari_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_Spine",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_Spine",
+			"abilityName": "Avatar_Tighnari_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_BS",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_01",
+			"abilityName": "Avatar_Tighnari_ElementBurst_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_05",
+			"abilityName": "Avatar_Tighnari_ElementBurst_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_02",
+			"abilityName": "Avatar_Tighnari_ElementBurst_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_06",
+			"abilityName": "Avatar_Tighnari_ElementBurst_06",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_03",
+			"abilityName": "Avatar_Tighnari_ElementBurst_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_07",
+			"abilityName": "Avatar_Tighnari_ElementBurst_07",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_04",
+			"abilityName": "Avatar_Tighnari_ElementBurst_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementBurst_08",
+			"abilityName": "Avatar_Tighnari_ElementBurst_08",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_ElementalBurst_Hit",
+			"abilityName": "Avatar_Tighnari_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Tighnari_Spine_Loop",
+			"abilityName": "Avatar_Tighnari_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

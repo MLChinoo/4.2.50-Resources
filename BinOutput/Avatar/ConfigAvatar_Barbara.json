@@ -1,0 +1,144 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Barbara_ExtraAttack",
+			"abilityName": "Avatar_Barbara_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ExtraAttack_FX",
+			"abilityName": "Avatar_Barbara_ExtraAttack_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ExtraAttack_Damage",
+			"abilityName": "Avatar_Barbara_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Attack01",
+			"abilityName": "Avatar_Barbara_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Attack02",
+			"abilityName": "Avatar_Barbara_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Attack03",
+			"abilityName": "Avatar_Barbara_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Attack04",
+			"abilityName": "Avatar_Barbara_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Attack04Damage",
+			"abilityName": "Avatar_Barbara_Attack04Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_WetShiled_Clear",
+			"abilityName": "Avatar_Barbara_WetShiled_Clear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_WetShiled",
+			"abilityName": "Avatar_Barbara_WetShiled",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_WetShiled_Heal",
+			"abilityName": "Avatar_Barbara_WetShiled_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_WetShiled_Impact",
+			"abilityName": "Avatar_Barbara_WetShiled_Impact",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_IdolHeal",
+			"abilityName": "Avatar_Barbara_IdolHeal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Trigger_Weather",
+			"abilityName": "Avatar_Barbara_Trigger_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ReviveElemEnergy",
+			"abilityName": "Avatar_Barbara_ReviveElemEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ReBorn_Pre",
+			"abilityName": "Avatar_Barbara_ReBorn_Pre",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ReBorn",
+			"abilityName": "Avatar_Barbara_ReBorn",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ReBornEffect_01",
+			"abilityName": "Avatar_Barbara_ReBornEffect_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ReBornEffect_02",
+			"abilityName": "Avatar_Barbara_ReBornEffect_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_FallingAnthem",
+			"abilityName": "Avatar_Barbara_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara",
+			"abilityName": "Avatar_Barbara",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_TeamConfig_01BS",
+			"abilityName": "Avatar_Barbara_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_TeamConfig_01Loop",
+			"abilityName": "Avatar_Barbara_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_TeamConfig_01AS",
+			"abilityName": "Avatar_Barbara_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ElementalBurst_Spine",
+			"abilityName": "Avatar_Barbara_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_ElementalBurst",
+			"abilityName": "Avatar_Barbara_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_Spine_Loop",
+			"abilityName": "Avatar_Barbara_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Barbara_VO_MDAQ054_Barbara_01",
+			"abilityName": "Avatar_Barbara_VO_MDAQ054_Barbara_01",
+			"abilityOverride": ""
+		}
+	]
+}

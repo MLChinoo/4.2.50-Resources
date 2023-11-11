@@ -1,0 +1,224 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack",
+			"abilityName": "Avatar_Yae_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_TriggerBullet",
+			"abilityName": "Avatar_Yae_ExtraAttack_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_Damage_1",
+			"abilityName": "Avatar_Yae_ExtraAttack_Damage_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_Damage_2",
+			"abilityName": "Avatar_Yae_ExtraAttack_Damage_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_Damage_3",
+			"abilityName": "Avatar_Yae_ExtraAttack_Damage_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_Damage_4",
+			"abilityName": "Avatar_Yae_ExtraAttack_Damage_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ExtraAttack_Damage_5",
+			"abilityName": "Avatar_Yae_ExtraAttack_Damage_5",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack_Hit",
+			"abilityName": "Avatar_Yae_Attack_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack01",
+			"abilityName": "Avatar_Yae_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack02",
+			"abilityName": "Avatar_Yae_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack03",
+			"abilityName": "Avatar_Yae_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack01_Damage",
+			"abilityName": "Avatar_Yae_Attack01_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack02_Damage",
+			"abilityName": "Avatar_Yae_Attack02_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Attack03_Damage",
+			"abilityName": "Avatar_Yae_Attack03_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt_ElderBrain",
+			"abilityName": "Avatar_Yae_ElementalArt_ElderBrain",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt",
+			"abilityName": "Avatar_Yae_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt_Foxtail",
+			"abilityName": "Avatar_Yae_ElementalArt_Foxtail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt_Retreat_Foxtail",
+			"abilityName": "Avatar_Yae_ElementalArt_Retreat_Foxtail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt_Foxtail_Remover",
+			"abilityName": "Avatar_Yae_ElementalArt_Foxtail_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalArt_Air",
+			"abilityName": "Avatar_Yae_ElementalArt_Air",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FoxTower_ThunderFall_Level1",
+			"abilityName": "Avatar_Yae_FoxTower_ThunderFall_Level1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FoxTower_ThunderFall_Level2",
+			"abilityName": "Avatar_Yae_FoxTower_ThunderFall_Level2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FoxTower_ThunderFall_Level3",
+			"abilityName": "Avatar_Yae_FoxTower_ThunderFall_Level3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FoxTower_ThunderFall_Level4",
+			"abilityName": "Avatar_Yae_FoxTower_ThunderFall_Level4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_CameraController",
+			"abilityName": "Avatar_Yae_ElementalBurst_CameraController",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_PostEffect",
+			"abilityName": "Avatar_Yae_ElementalBurst_PostEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Yae_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_Mark_Tower",
+			"abilityName": "Avatar_Yae_ElementalBurst_Mark_Tower",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_Clear_Tower",
+			"abilityName": "Avatar_Yae_ElementalBurst_Clear_Tower",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_PermanentSkill_1",
+			"abilityName": "Avatar_Yae_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_PermanentSkill_2",
+			"abilityName": "Avatar_Yae_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Constellation_6",
+			"abilityName": "Avatar_Yae_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FallingAnthem_Foxtail",
+			"abilityName": "Avatar_Yae_FallingAnthem_Foxtail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_FallingAnthem",
+			"abilityName": "Avatar_Yae_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae",
+			"abilityName": "Avatar_Yae",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_TeamConfig_01BS",
+			"abilityName": "Avatar_Yae_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_TeamConfig_01Loop",
+			"abilityName": "Avatar_Yae_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_TeamConfig_01AS",
+			"abilityName": "Avatar_Yae_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_Spine",
+			"abilityName": "Avatar_Yae_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_BS",
+			"abilityName": "Avatar_Yae_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_Hit",
+			"abilityName": "Avatar_Yae_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_ElementalBurst_Buff",
+			"abilityName": "Avatar_Yae_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yae_Spine_Loop",
+			"abilityName": "Avatar_Yae_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_YaeMiko",
+			"abilityName": "Avatar_YaeMiko",
+			"abilityOverride": ""
+		}
+	]
+}

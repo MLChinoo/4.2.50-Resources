@@ -1,0 +1,249 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Ayato_ExtraAttack",
+			"abilityName": "Avatar_Ayato_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Ayato_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Ayato_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalArt",
+			"abilityName": "Avatar_Ayato_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff_Level",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff_Level",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose",
+			"abilityName": "Avatar_Ayato_KendoPose",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_State",
+			"abilityName": "Avatar_Ayato_KendoPose_State",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff_Level_Remove",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff_Level_Remove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_BuffAdd",
+			"abilityName": "Avatar_Ayato_KendoPose_BuffAdd",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Click",
+			"abilityName": "Avatar_Ayato_KendoPose_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Hold_SpecialAttack",
+			"abilityName": "Avatar_Ayato_Hold_SpecialAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff0",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff1",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff2",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff3",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff4",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_Buff5",
+			"abilityName": "Avatar_Ayato_KendoPose_Buff5",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_BuffTimer",
+			"abilityName": "Avatar_Ayato_KendoPose_BuffTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_HPBuff",
+			"abilityName": "Avatar_Ayato_KendoPose_HPBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_BuffEffect",
+			"abilityName": "Avatar_Ayato_KendoPose_BuffEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_BuffEffect_Delay",
+			"abilityName": "Avatar_Ayato_KendoPose_BuffEffect_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_KendoPose_BuffTimerM",
+			"abilityName": "Avatar_Ayato_KendoPose_BuffTimerM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalArt_Gadget",
+			"abilityName": "Avatar_Ayato_ElementalArt_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst",
+			"abilityName": "Avatar_Ayato_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_Gadget",
+			"abilityName": "Avatar_Ayato_ElementalBurst_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_Gadget_Select",
+			"abilityName": "Avatar_Ayato_ElementalBurst_Gadget_Select",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_NormalAttackUp",
+			"abilityName": "Avatar_Ayato_ElementalBurst_NormalAttackUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_PermanentSkill_2_ReviveEnergy",
+			"abilityName": "Avatar_Ayato_PermanentSkill_2_ReviveEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_IsOffStage",
+			"abilityName": "Avatar_Ayato_IsOffStage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_OffStage",
+			"abilityName": "Avatar_Ayato_OffStage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ReviveEnergy_OffStage",
+			"abilityName": "Avatar_Ayato_ReviveEnergy_OffStage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Ayato_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_FallingAnthem",
+			"abilityName": "Avatar_Ayato_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato",
+			"abilityName": "Avatar_Ayato",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_ElementalArt",
+			"abilityName": "Avatar_Ayato_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Ayato_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_ElementalArt_Retreat",
+			"abilityName": "Avatar_Ayato_Skill_ElementalArt_Retreat",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_ElementalArt_Retreat_AS",
+			"abilityName": "Avatar_Ayato_Skill_ElementalArt_Retreat_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_SpecialAttack_01",
+			"abilityName": "Avatar_Ayato_Skill_SpecialAttack_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_SpecialAttack_02",
+			"abilityName": "Avatar_Ayato_Skill_SpecialAttack_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_TeamConfig_01BS",
+			"abilityName": "Avatar_Ayato_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_TeamConfig_01Loop",
+			"abilityName": "Avatar_Ayato_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_TeamConfig_01AS",
+			"abilityName": "Avatar_Ayato_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Skill_SpecialAttack_03",
+			"abilityName": "Avatar_Ayato_Skill_SpecialAttack_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_Spine",
+			"abilityName": "Avatar_Ayato_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_BS",
+			"abilityName": "Avatar_Ayato_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_ElementalBurst_Hit",
+			"abilityName": "Avatar_Ayato_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayato_Spine_Loop",
+			"abilityName": "Avatar_Ayato_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

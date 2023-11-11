@@ -1,0 +1,224 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Kaveh_ExtraAttack",
+			"abilityName": "Avatar_Kaveh_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ExtraAttack_Flag",
+			"abilityName": "Avatar_Kaveh_ExtraAttack_Flag",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_Chest_Handler",
+			"abilityName": "Avatar_Kaveh_Chest_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalArt",
+			"abilityName": "Avatar_Kaveh_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalArt_Strike",
+			"abilityName": "Avatar_Kaveh_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalArt_ElementalBall_Handler",
+			"abilityName": "Avatar_Kaveh_ElementalArt_ElementalBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalArt_ElementalBall",
+			"abilityName": "Avatar_Kaveh_ElementalArt_ElementalBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalArt_HealBuff",
+			"abilityName": "Avatar_Kaveh_ElementalArt_HealBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_OvergrowSeed_Trigger",
+			"abilityName": "Avatar_Kaveh_OvergrowSeed_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst",
+			"abilityName": "Avatar_Kaveh_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_Pre_Weather",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_Pre_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ExitCamera",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ExitCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_VFX",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_Handler",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_AtkSpeedBuff",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_AtkSpeedBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ReactionDamageUp_TeamBuff",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ReactionDamageUp_TeamBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ElementMastery_Handler",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ElementMastery_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ExtraStrike_Handler",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ExtraStrike_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAttack_Flag",
+			"abilityName": "Avatar_Kaveh_FallingAttack_Flag",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAttackVFX_Flag",
+			"abilityName": "Avatar_Kaveh_FallingAttackVFX_Flag",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_Handler5Avatar_Kaveh_ElementalBurst_ReactionDamageUp_TeamBuff",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_Handler5Avatar_Kaveh_ElementalBurst_ReactionDamageUp_TeamBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ExtraStrike_Attack",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ExtraStrike_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ExtraStrike_CD",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ExtraStrike_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ExtraStrike_CD2Avatar_Kaveh_ElementalBurst_ElementMastery_Handler",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ExtraStrike_CD2Avatar_Kaveh_ElementalBurst_ElementMastery_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ElementMastery_Buff",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ElementMastery_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst_ElementMastery_CD",
+			"abilityName": "Avatar_Kaveh_ElementalBurst_ElementMastery_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_Overgrow_HealHP",
+			"abilityName": "Avatar_Kaveh_Overgrow_HealHP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_Overgrow_HealHP_Handler",
+			"abilityName": "Avatar_Kaveh_Overgrow_HealHP_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_Overgrow_ReactionDamageUp",
+			"abilityName": "Avatar_Kaveh_Overgrow_ReactionDamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_Overgrow_ReactionDamageUp_Buff",
+			"abilityName": "Avatar_Kaveh_Overgrow_ReactionDamageUp_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAnthem",
+			"abilityName": "Avatar_Kaveh_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAttackVFX_Handler4Avatar_Kaveh_FallingAttackVFX_ElementalBurst_Handler",
+			"abilityName": "Avatar_Kaveh_FallingAttackVFX_Handler4Avatar_Kaveh_FallingAttackVFX_ElementalBurst_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAttackVFX_Handler",
+			"abilityName": "Avatar_Kaveh_FallingAttackVFX_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_FallingAttackVFX_ElementalBurst_Handler",
+			"abilityName": "Avatar_Kaveh_FallingAttackVFX_ElementalBurst_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Kaveh_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh",
+			"abilityName": "Avatar_Kaveh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_TeamConfig_01BS",
+			"abilityName": "Avatar_Kaveh_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_TeamConfig_01Loop",
+			"abilityName": "Avatar_Kaveh_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_TeamConfig_01AS",
+			"abilityName": "Avatar_Kaveh_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Kaveh_Spnotebook",
+			"abilityName": "AvatarItem_Kaveh_Spnotebook",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst1Kaveh_ElementalBurst_ElementMastery_Buff_StackNum",
+			"abilityName": "Avatar_Kaveh_ElementalBurst1Kaveh_ElementalBurst_ElementMastery_Buff_StackNum",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurst9Kaveh_ElementalBurst_ElementMastery_Buff_ElemMasteryDelta",
+			"abilityName": "Avatar_Kaveh_ElementalBurst9Kaveh_ElementalBurst_ElementMastery_Buff_ElemMasteryDelta",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kaveh_ElementalBurstEKaveh_ElementalBurst_ReactionDamageUp_TeamBuff_ElemReactOvergrowDelta",
+			"abilityName": "Avatar_Kaveh_ElementalBurstEKaveh_ElementalBurst_ReactionDamageUp_TeamBuff_ElemReactOvergrowDelta",
+			"abilityOverride": ""
+		}
+	]
+}

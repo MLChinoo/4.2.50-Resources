@@ -1,0 +1,134 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Shenhe_ExtraAttack",
+			"abilityName": "Avatar_Shenhe_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_CreateBullet",
+			"abilityName": "Avatar_Shenhe_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Shenhe_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalArt_Bullet",
+			"abilityName": "Avatar_Shenhe_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalArt_FX",
+			"abilityName": "Avatar_Shenhe_ElementalArt_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalArt_Attack_L",
+			"abilityName": "Avatar_Shenhe_ElementalArt_Attack_L",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalArt_Attack_H",
+			"abilityName": "Avatar_Shenhe_ElementalArt_Attack_H",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalBurst",
+			"abilityName": "Avatar_Shenhe_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Shenhe_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Shenhe_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_FallingAnthem",
+			"abilityName": "Avatar_Shenhe_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe",
+			"abilityName": "Avatar_Shenhe",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalArt_L",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalArt_L",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalArt_H",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalArt_H",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalArt_L_AS",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalArt_L_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalArt_H_AS",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalArt_H_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalBurst_BS",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Skill_ElementalBurst",
+			"abilityName": "Avatar_Shenhe_Skill_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_TeamConfig_01BS",
+			"abilityName": "Avatar_Shenhe_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_TeamConfig_01Loop",
+			"abilityName": "Avatar_Shenhe_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_TeamConfig_01AS",
+			"abilityName": "Avatar_Shenhe_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalBurst_Spine",
+			"abilityName": "Avatar_Shenhe_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalBurst_BS",
+			"abilityName": "Avatar_Shenhe_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_ElementalBurst_Hit",
+			"abilityName": "Avatar_Shenhe_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shenhe_Spine_Loop",
+			"abilityName": "Avatar_Shenhe_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

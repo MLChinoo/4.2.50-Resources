@@ -1,0 +1,214 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Aloy_PressShoot",
+			"abilityName": "Avatar_Aloy_PressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_AimPressShoot",
+			"abilityName": "Avatar_Aloy_AimPressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_PressShoot_Charge",
+			"abilityName": "Avatar_Aloy_PressShoot_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_PressShoot_Shooting",
+			"abilityName": "Avatar_Aloy_PressShoot_Shooting",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ShootArrow_01_01",
+			"abilityName": "Avatar_Aloy_ShootArrow_01_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ShootArrow_01_02",
+			"abilityName": "Avatar_Aloy_ShootArrow_01_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ShootArrow_02",
+			"abilityName": "Avatar_Aloy_ShootArrow_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ShootArrow_03",
+			"abilityName": "Avatar_Aloy_ShootArrow_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ShootArrow_04",
+			"abilityName": "Avatar_Aloy_ShootArrow_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_LightEffect",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_LightEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_LightEffect_UltraMode",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_LightEffect_UltraMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX_UltraMode",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX_UltraMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ExtraAttack_WithoutIce",
+			"abilityName": "Avatar_AloyGadgetSkill_ExtraAttack_WithoutIce",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ExtraAttack_Ice",
+			"abilityName": "Avatar_AloyGadgetSkill_ExtraAttack_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_Coil_Handler",
+			"abilityName": "Avatar_Aloy_Coil_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ElementalArt",
+			"abilityName": "Avatar_Aloy_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalArt_Bullet",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalArt_Mine",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalArt_Mine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ElementalBurst_Camera",
+			"abilityName": "Avatar_Aloy_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_ElementalBurst",
+			"abilityName": "Avatar_Aloy_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalBurst",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_02_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_02_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_03_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_03_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_04_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_04_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_FallingAnthem",
+			"abilityName": "Avatar_Aloy_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy",
+			"abilityName": "Avatar_Aloy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX9Avatar_AloyGadgetSkill_NormalAttack_LightEffect_UltraMode5Avatar_AloyGadgetSkill_NormalAttack_HeavyFX_UltraMode",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_HeavyFX9Avatar_AloyGadgetSkill_NormalAttack_LightEffect_UltraMode5Avatar_AloyGadgetSkill_NormalAttack_HeavyFX_UltraMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalArt_Bullet1Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalArt_Bullet1Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalBurst0Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalBurst0Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Aloy_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_Skill_ElementalArt",
+			"abilityName": "Avatar_Aloy_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_TeamConfig_01BS",
+			"abilityName": "Avatar_Aloy_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_TeamConfig_01Loop",
+			"abilityName": "Avatar_Aloy_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_TeamConfig_01AS",
+			"abilityName": "Avatar_Aloy_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Aloy_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Aloy_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_01_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityName": "Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage0Avatar_AloyGadgetSkill_NormalAttack_01_02_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet1Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityName": "Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet1Avatar_AloyGadgetSkill_ElementalArt_TriggerBullet",
+			"abilityOverride": ""
+		}
+	]
+}

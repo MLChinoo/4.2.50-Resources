@@ -1,0 +1,114 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Rosaria_ExtraAttack",
+			"abilityName": "Avatar_Rosaria_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Rosaria_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Rosaria_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalArt",
+			"abilityName": "Avatar_Rosaria_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalArt_Strike_01",
+			"abilityName": "Avatar_Rosaria_ElementalArt_Strike_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalArt_Strike_02",
+			"abilityName": "Avatar_Rosaria_ElementalArt_Strike_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalBurst_Camera",
+			"abilityName": "Avatar_Rosaria_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalBurst_Strike_01",
+			"abilityName": "Avatar_Rosaria_ElementalBurst_Strike_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_ElementalBurst_Create_Gadget",
+			"abilityName": "Avatar_Rosaria_ElementalBurst_Create_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_GadgetEndEffect_Played",
+			"abilityName": "Avatar_Rosaria_GadgetEndEffect_Played",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Rosaria_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_FallingAnthem",
+			"abilityName": "Avatar_Rosaria_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria",
+			"abilityName": "Avatar_Rosaria",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalArt",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalBurst_BS",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalBurst",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_TeamConfig_01BS",
+			"abilityName": "Avatar_Rosaria_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_TeamConfig_01Loop",
+			"abilityName": "Avatar_Rosaria_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_TeamConfig_01AS",
+			"abilityName": "Avatar_Rosaria_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Rosaria_Skill_ElementalBurst_AS",
+			"abilityName": "Avatar_Rosaria_Skill_ElementalBurst_AS",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Beidou_ExtraAttack_Chongyun",
+			"abilityName": "Avatar_Beidou_ExtraAttack_Chongyun",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalArt_Initiate",
+			"abilityName": "Avatar_Chongyun_ElementalArt_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalArt_Damage",
+			"abilityName": "Avatar_Chongyun_ElementalArt_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_IceCrystal",
+			"abilityName": "Avatar_Chongyun_IceCrystal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_IceCrystal_Dummy",
+			"abilityName": "Avatar_Chongyun_IceCrystal_Dummy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_Single_Initiate",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_Single_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_Initiate",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_SoulBlades_Quadra",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_SoulBlades_Quadra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_SoulBlades",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_SoulBlades",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_Damage",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_SoulUnleash_Quadra_Damage",
+			"abilityName": "Avatar_Chongyun_SoulUnleash_Quadra_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_HitReviveElemEnergy",
+			"abilityName": "Avatar_Chongyun_HitReviveElemEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Chongyun_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_IceBlade",
+			"abilityName": "Avatar_Chongyun_IceBlade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_FallingAnthem",
+			"abilityName": "Avatar_Chongyun_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun",
+			"abilityName": "Avatar_Chongyun",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_TeamConfig_01BS",
+			"abilityName": "Avatar_Chongyun_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_TeamConfig_01Loop",
+			"abilityName": "Avatar_Chongyun_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_TeamConfig_01AS",
+			"abilityName": "Avatar_Chongyun_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalBurst_Spine",
+			"abilityName": "Avatar_Chongyun_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalBurst_Hit",
+			"abilityName": "Avatar_Chongyun_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalBurst_BS",
+			"abilityName": "Avatar_Chongyun_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_ElementalBurst_Hit_NoSpine",
+			"abilityName": "Avatar_Chongyun_ElementalBurst_Hit_NoSpine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chongyun_Spine_Loop",
+			"abilityName": "Avatar_Chongyun_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

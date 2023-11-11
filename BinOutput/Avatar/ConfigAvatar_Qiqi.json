@@ -1,0 +1,139 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Qiqi_ExtraAttack",
+			"abilityName": "Avatar_Qiqi_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalArt_Clear",
+			"abilityName": "Avatar_Qiqi_ElementalArt_Clear",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalArt",
+			"abilityName": "Avatar_Qiqi_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalArt_CD",
+			"abilityName": "Avatar_Qiqi_ElementalArt_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalArt_Bullet",
+			"abilityName": "Avatar_Qiqi_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst",
+			"abilityName": "Avatar_Qiqi_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_PostEffect",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_PostEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Revive",
+			"abilityName": "Avatar_Qiqi_Revive",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_ApplyModifier",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_ApplyModifier",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_TriggerAttack",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_TriggerAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_CameraRadialBlur",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_CameraRadialBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_NormalAttackDamage",
+			"abilityName": "Avatar_Qiqi_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalArt_Damage",
+			"abilityName": "Avatar_Qiqi_ElementalArt_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Frozen_AttackUp",
+			"abilityName": "Avatar_Qiqi_Frozen_AttackUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_FallingAnthem",
+			"abilityName": "Avatar_Qiqi_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Radar_Collectables_Liyue",
+			"abilityName": "Avatar_Qiqi_Radar_Collectables_Liyue",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi",
+			"abilityName": "Avatar_Qiqi",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Skill_ElementalArt",
+			"abilityName": "Avatar_Qiqi_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_TeamConfig_01BS",
+			"abilityName": "Avatar_Qiqi_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_TeamConfig_01Loop",
+			"abilityName": "Avatar_Qiqi_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_TeamConfig_01AS",
+			"abilityName": "Avatar_Qiqi_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Qiqi_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_Spine",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_BS",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_ElementalBurst_Hit",
+			"abilityName": "Avatar_Qiqi_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Qiqi_Spine_Loop",
+			"abilityName": "Avatar_Qiqi_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

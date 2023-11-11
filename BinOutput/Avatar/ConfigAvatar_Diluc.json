@@ -1,0 +1,174 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Diluc_ExtraAttack",
+			"abilityName": "Avatar_Diluc_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_Blade",
+			"abilityName": "Avatar_Diluc_Fire_Blade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_BladeSet1",
+			"abilityName": "Avatar_Diluc_Fire_BladeSet1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_AfterFireBlade",
+			"abilityName": "Avatar_Diluc_AfterFireBlade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_BladeSet2",
+			"abilityName": "Avatar_Diluc_Fire_BladeSet2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_BladeSet3",
+			"abilityName": "Avatar_Diluc_Fire_BladeSet3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_Enhancement",
+			"abilityName": "Avatar_Diluc_Fire_Enhancement",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireCrossCamera",
+			"abilityName": "Avatar_Diluc_FireCrossCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireCross_Push1",
+			"abilityName": "Avatar_Diluc_FireCross_Push1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireCross_Strike",
+			"abilityName": "Avatar_Diluc_FireCross_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireCross",
+			"abilityName": "Avatar_Diluc_FireCross",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireCross_Explode",
+			"abilityName": "Avatar_Diluc_FireCross_Explode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_NormalAttackDamage",
+			"abilityName": "Avatar_Diluc_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementArt",
+			"abilityName": "Avatar_Diluc_ElementArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_GiantKiller",
+			"abilityName": "Avatar_Diluc_GiantKiller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FireHowl",
+			"abilityName": "Avatar_Diluc_FireHowl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_AfterFireBladeCountDown",
+			"abilityName": "Avatar_Diluc_AfterFireBladeCountDown",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_NextFireBlade1",
+			"abilityName": "Avatar_Diluc_NextFireBlade1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_NextFireBlade2",
+			"abilityName": "Avatar_Diluc_NextFireBlade2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_FallingAnthem",
+			"abilityName": "Avatar_Diluc_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc",
+			"abilityName": "Avatar_Diluc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_TeamConfig_01BS",
+			"abilityName": "Avatar_Diluc_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_TeamConfig_01Loop",
+			"abilityName": "Avatar_Diluc_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_TeamConfig_01AS",
+			"abilityName": "Avatar_Diluc_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Diluc_Mask",
+			"abilityName": "AvatarItem_Diluc_Mask",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Fire_Enchantment",
+			"abilityName": "Avatar_Diluc_Fire_Enchantment",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementalBurst_Spine",
+			"abilityName": "Avatar_Diluc_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementalBurst_Spine_MotionBlur",
+			"abilityName": "Avatar_Diluc_ElementalBurst_Spine_MotionBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Spine",
+			"abilityName": "Avatar_Diluc_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementalBurst",
+			"abilityName": "Avatar_Diluc_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementBurst",
+			"abilityName": "Avatar_Diluc_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_ElementalBurst_Hit",
+			"abilityName": "Avatar_Diluc_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Spine_Loop",
+			"abilityName": "Avatar_Diluc_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Diluc_Spine_BG",
+			"abilityName": "Avatar_Diluc_Spine_BG",
+			"abilityOverride": ""
+		}
+	]
+}

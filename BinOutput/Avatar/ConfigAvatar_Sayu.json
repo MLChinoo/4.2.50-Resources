@@ -1,0 +1,239 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Sayu_ExtraAttack",
+			"abilityName": "Avatar_Sayu_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_NormalAttack_Handler",
+			"abilityName": "Avatar_Sayu_NormalAttack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_NormalAttack_Hide",
+			"abilityName": "Avatar_Sayu_NormalAttack_Hide",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Check",
+			"abilityName": "Avatar_Sayu_ElementalArt_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Sayu_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Click",
+			"abilityName": "Avatar_Sayu_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Click_EnterCD",
+			"abilityName": "Avatar_Sayu_ElementalArt_Click_EnterCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Click_TriggerBullet",
+			"abilityName": "Avatar_Sayu_ElementalArt_Click_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Click_Effect",
+			"abilityName": "Avatar_Sayu_ElementalArt_Click_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Bullet",
+			"abilityName": "Avatar_Sayu_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Hold",
+			"abilityName": "Avatar_Sayu_ElementalArt_Hold",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_CDHandler",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_CDHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_Handler",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_CloseCollider",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_CloseCollider",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_Effect",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_TriggerBullet",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Hold_Strike",
+			"abilityName": "Avatar_Sayu_ElementalArt_Hold_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_TriggerFire",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_TriggerFire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_TriggerWater",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_TriggerWater",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_TriggerElectric",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_TriggerElectric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_TriggerIce",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_TriggerIce",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_Bullet",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalArt_Roll_Mix",
+			"abilityName": "Avatar_Sayu_ElementalArt_Roll_Mix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst",
+			"abilityName": "Avatar_Sayu_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Strike",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Heal",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Sayu_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_CameraBlur",
+			"abilityName": "Avatar_Sayu_ElementalBurst_CameraBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_TriggerDaruma",
+			"abilityName": "Avatar_Sayu_ElementalBurst_TriggerDaruma",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_Delay",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_Handler",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_PlayAnim",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_PlayAnim",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_Heal",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_Attack",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_ElementalBurst_Phantom_AttackAndHeal",
+			"abilityName": "Avatar_Sayu_ElementalBurst_Phantom_AttackAndHeal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_Constellation_6_Handler",
+			"abilityName": "Avatar_Sayu_Constellation_6_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_FallingAnthem",
+			"abilityName": "Avatar_Sayu_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Sayu_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_PermanentSkill_1",
+			"abilityName": "Avatar_Sayu_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu",
+			"abilityName": "Avatar_Sayu",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_TeamConfig_01BS",
+			"abilityName": "Avatar_Sayu_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_TeamConfig_01Loop",
+			"abilityName": "Avatar_Sayu_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Sayu_TeamConfig_01AS",
+			"abilityName": "Avatar_Sayu_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

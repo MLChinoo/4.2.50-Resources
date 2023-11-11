@@ -1,0 +1,169 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Xiangling_ExtraAttack_Damage",
+			"abilityName": "Avatar_Xiangling_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ExtraAttack",
+			"abilityName": "Avatar_Xiangling_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Xiangling_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Xiangling_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_Eff_Attack_04",
+			"abilityName": "Avatar_Xiangling_Eff_Attack_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaBornEffect",
+			"abilityName": "Avatar_Xiangling_PandaBornEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaBornEffect_Run",
+			"abilityName": "Avatar_Xiangling_PandaBornEffect_Run",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaFire",
+			"abilityName": "Avatar_Xiangling_PandaFire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaFire_Run",
+			"abilityName": "Avatar_Xiangling_PandaFire_Run",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaFireAim",
+			"abilityName": "Avatar_Xiangling_PandaFireAim",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaFire_Effect",
+			"abilityName": "Avatar_Xiangling_PandaFire_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaFire_Attack",
+			"abilityName": "Avatar_Xiangling_PandaFire_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_PandaPepper",
+			"abilityName": "Avatar_Xiangling_PandaPepper",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FireCircleSkillStart",
+			"abilityName": "Avatar_Xiangling_FireCircleSkillStart",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FireCircle01",
+			"abilityName": "Avatar_Xiangling_FireCircle01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FireCircle02",
+			"abilityName": "Avatar_Xiangling_FireCircle02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FireCircle03",
+			"abilityName": "Avatar_Xiangling_FireCircle03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FireCircle",
+			"abilityName": "Avatar_Xiangling_FireCircle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_NormalAttackDamage",
+			"abilityName": "Avatar_Xiangling_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_FallingAnthem",
+			"abilityName": "Avatar_Xiangling_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling",
+			"abilityName": "Avatar_Xiangling",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_TeamConfig_01BS",
+			"abilityName": "Avatar_Xiangling_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_TeamConfig_01Loop",
+			"abilityName": "Avatar_Xiangling_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_TeamConfig_01AS",
+			"abilityName": "Avatar_Xiangling_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ElementalBurst_Spine",
+			"abilityName": "Avatar_Xiangling_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ElementalBurst_BS",
+			"abilityName": "Avatar_Xiangling_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ElementalBurst",
+			"abilityName": "Avatar_Xiangling_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ElementBurst",
+			"abilityName": "Avatar_Xiangling_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_ElementalBurst_Hit",
+			"abilityName": "Avatar_Xiangling_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_elementalBurst_Normal",
+			"abilityName": "Avatar_Xiangling_elementalBurst_Normal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_Spine_Loop",
+			"abilityName": "Avatar_Xiangling_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_Spine_Loop_BG",
+			"abilityName": "Avatar_Xiangling_Spine_Loop_BG",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Xiangling_Spine",
+			"abilityName": "Avatar_Xiangling_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

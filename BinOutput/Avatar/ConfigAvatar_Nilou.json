@@ -1,0 +1,264 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Nilou_ExtraAttack",
+			"abilityName": "Avatar_Nilou_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Attack_01_Spec",
+			"abilityName": "Avatar_Nilou_Attack_01_Spec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Recombo_Mark",
+			"abilityName": "Avatar_Nilou_Recombo_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Attack_02_Spec",
+			"abilityName": "Avatar_Nilou_Attack_02_Spec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalDance",
+			"abilityName": "Avatar_Nilou_ElementalDance",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_In_NormalAttack_Mark",
+			"abilityName": "Avatar_Nilou_In_NormalAttack_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_NilouAllCount_1",
+			"abilityName": "Avatar_NilouAllCount_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_NilouAllCount_2",
+			"abilityName": "Avatar_NilouAllCount_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Change_ECount_To_4",
+			"abilityName": "Avatar_Nilou_Change_ECount_To_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Combo_Complete_Mark",
+			"abilityName": "Avatar_Nilou_Combo_Complete_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Keep_Attack_Combo_Handler",
+			"abilityName": "Avatar_Nilou_Keep_Attack_Combo_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Elemental_Art_ElemBall_Handler",
+			"abilityName": "Avatar_Nilou_Elemental_Art_ElemBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Keep_Attack_Combo_Handler_",
+			"abilityName": "Avatar_Nilou_Keep_Attack_Combo_Handler_",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalDanceFake",
+			"abilityName": "Avatar_Nilou_ElementalDanceFake",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spec_Attack_Count_Add1",
+			"abilityName": "Avatar_Nilou_Spec_Attack_Count_Add1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spec_E_2",
+			"abilityName": "Avatar_Nilou_Spec_E_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spec_E_3",
+			"abilityName": "Avatar_Nilou_Spec_E_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spec_Attack_Over",
+			"abilityName": "Avatar_Nilou_Spec_Attack_Over",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_AOver_Dance_Buff",
+			"abilityName": "Avatar_Nilou_AOver_Dance_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_AOver_Dance_Buff_Driver",
+			"abilityName": "Avatar_Nilou_AOver_Dance_Buff_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalArt_Buff_Controller",
+			"abilityName": "Avatar_Nilou_ElementalArt_Buff_Controller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spec_EArt_Over",
+			"abilityName": "Avatar_Nilou_Spec_EArt_Over",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalArt_Buff_ControllerM",
+			"abilityName": "Avatar_Nilou_ElementalArt_Buff_ControllerM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Nilou",
+			"abilityName": "Avatar_ElementalArt_Buff_Nilou",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Nilou_Driver",
+			"abilityName": "Avatar_ElementalArt_Buff_Nilou_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Resistance_Reduce_Avatar",
+			"abilityName": "Avatar_Nilou_Resistance_Reduce_Avatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Overgrow_Damage_Up",
+			"abilityName": "Avatar_Nilou_Overgrow_Damage_Up",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Max_HP_Refresh",
+			"abilityName": "Avatar_Nilou_Max_HP_Refresh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_SpecE_Energy_Revive",
+			"abilityName": "Avatar_Nilou_SpecE_Energy_Revive",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Water_Bubble_Bullet",
+			"abilityName": "Avatar_Nilou_Water_Bubble_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Recombo_Mark_Bullet",
+			"abilityName": "Avatar_Nilou_Recombo_Mark_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_Camera",
+			"abilityName": "Avatar_Nilou_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Nilou_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Burst_Attacker",
+			"abilityName": "Avatar_Nilou_Burst_Attacker",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Burst_Delay_Attacker",
+			"abilityName": "Avatar_Nilou_Burst_Delay_Attacker",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Nilou_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_MaxHP_Trans_Crit",
+			"abilityName": "Avatar_Nilou_MaxHP_Trans_Crit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_FallingAnthem",
+			"abilityName": "Avatar_Nilou_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_QuestAbility_NilouFullMP",
+			"abilityName": "Avatar_QuestAbility_NilouFullMP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_NilouFullMP",
+			"abilityName": "Avatar_NilouFullMP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou",
+			"abilityName": "Avatar_Nilou",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_TeamConfig_01BS",
+			"abilityName": "Avatar_Nilou_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_TeamConfig_01Loop",
+			"abilityName": "Avatar_Nilou_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_TeamConfig_01AS",
+			"abilityName": "Avatar_Nilou_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Nilou_HushangWreaths",
+			"abilityName": "AvatarItem_Nilou_HushangWreaths",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_Spine",
+			"abilityName": "Avatar_Nilou_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_BS",
+			"abilityName": "Avatar_Nilou_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_Hit",
+			"abilityName": "Avatar_Nilou_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_ElementalBurst_Buff",
+			"abilityName": "Avatar_Nilou_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spine_Loop",
+			"abilityName": "Avatar_Nilou_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spine_Loop_Floor",
+			"abilityName": "Avatar_Nilou_Spine_Loop_Floor",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nilou_Spine",
+			"abilityName": "Avatar_Nilou_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

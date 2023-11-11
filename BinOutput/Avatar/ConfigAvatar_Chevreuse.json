@@ -1,0 +1,174 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Chevreuse_ExtraAttack",
+			"abilityName": "Avatar_Chevreuse_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ExtraAttack_Cast",
+			"abilityName": "Avatar_Chevreuse_ExtraAttack_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Chevreuse_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt",
+			"abilityName": "Avatar_Chevreuse_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_Has_Target_Mark",
+			"abilityName": "Avatar_Chevreuse_Has_Target_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_Click",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_Shoot",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_Shoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_Damage_Up",
+			"abilityName": "Avatar_Chevreuse_Damage_Up",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ExtraArt_Chance",
+			"abilityName": "Avatar_Chevreuse_ExtraArt_Chance",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ExtraBomb",
+			"abilityName": "Avatar_Chevreuse_ExtraBomb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_DropBall",
+			"abilityName": "Avatar_Chevreuse_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ArkheGrade",
+			"abilityName": "Avatar_Chevreuse_ArkheGrade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ArkheGrade_CD",
+			"abilityName": "Avatar_Chevreuse_ArkheGrade_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalBurst",
+			"abilityName": "Avatar_Chevreuse_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_UpgradeBullet",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_UpgradeBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_SuperBullet_Buff",
+			"abilityName": "Avatar_Chevreuse_SuperBullet_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Handler",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver2Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver2Avatar_Chevreuse_ElementalArt_UpgradeBullet_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_ElementalArt_Feedback",
+			"abilityName": "Avatar_Chevreuse_ElementalArt_Feedback",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_SuperBullet_Eff",
+			"abilityName": "Avatar_Chevreuse_SuperBullet_Eff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_Buff",
+			"abilityName": "Avatar_Chevreuse_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Chevreuse",
+			"abilityName": "Avatar_ElementalArt_Buff_Chevreuse",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Chevreuse_Driver",
+			"abilityName": "Avatar_ElementalArt_Buff_Chevreuse_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Chevreuse_Driver0UNIQUE_Avatar_ElementalArt_Buff_Chevreuse_Driver",
+			"abilityName": "Avatar_ElementalArt_Buff_Chevreuse_Driver0UNIQUE_Avatar_ElementalArt_Buff_Chevreuse_Driver",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_ElementalArt_Buff_Chevreuse_Feedback",
+			"abilityName": "Avatar_ElementalArt_Buff_Chevreuse_Feedback",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_CreateBomb",
+			"abilityName": "Avatar_Chevreuse_CreateBomb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_DashStamina_Reduction",
+			"abilityName": "Avatar_Chevreuse_DashStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Chevreuse_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_FallingAnthem",
+			"abilityName": "Avatar_Chevreuse_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse",
+			"abilityName": "Avatar_Chevreuse",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_TeamConfig_01BS",
+			"abilityName": "Avatar_Chevreuse_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_TeamConfig_01Loop",
+			"abilityName": "Avatar_Chevreuse_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Chevreuse_TeamConfig_01AS",
+			"abilityName": "Avatar_Chevreuse_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,634 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Kazuha_ExtraAttack",
+			"abilityName": "Avatar_Kazuha_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_Handler",
+			"abilityName": "Avatar_Kazuha_NormalAttack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05_Damage",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Hide_Fx",
+			"abilityName": "Avatar_Kazuha_Hide_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Hide",
+			"abilityName": "Avatar_Kazuha_Hide",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_MagicSheath",
+			"abilityName": "Avatar_Kazuha_NormalAttack_MagicSheath",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05_Handler",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05_Damage01",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05_Damage01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05_Damage02",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05_Damage02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_05_Damage03",
+			"abilityName": "Avatar_Kazuha_NormalAttack_05_Damage03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Check",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_ResetMixType",
+			"abilityName": "Avatar_Kazuha_ElementalArt_ResetMixType",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_HitCheck",
+			"abilityName": "Avatar_Kazuha_ElementalArt_HitCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_AddHitMark",
+			"abilityName": "Avatar_Kazuha_ElementalArt_AddHitMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_DropBall",
+			"abilityName": "Avatar_Kazuha_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_MonsterTail",
+			"abilityName": "Avatar_Kazuha_ElementalArt_MonsterTail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_AirCheck",
+			"abilityName": "Avatar_Kazuha_ElementalArt_AirCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Air_AddMark",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Air_AddMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Air_RemoveMark",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Air_RemoveMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_ClearVelocity",
+			"abilityName": "Avatar_Kazuha_ElementalArt_ClearVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_ChangeSkillButton",
+			"abilityName": "Avatar_Kazuha_ElementalArt_ChangeSkillButton",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Air_Handler",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Air_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_WindEffect_Delay",
+			"abilityName": "Avatar_Kazuha_ElementalArt_WindEffect_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_WindEffect",
+			"abilityName": "Avatar_Kazuha_ElementalArt_WindEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Charge",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Charge_WindZone",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Charge_WindZone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Charge_Remove",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Charge_Remove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_EmptyJump",
+			"abilityName": "Avatar_Kazuha_ElementalArt_EmptyJump",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_Effect",
+			"abilityName": "Avatar_Kazuha_EmptyJump_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_EnterCD",
+			"abilityName": "Avatar_Kazuha_ElementalArt_EnterCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Click_Detect",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Click_Detect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_Strike",
+			"abilityName": "Avatar_Kazuha_EmptyJump_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_MixDetect",
+			"abilityName": "Avatar_Kazuha_EmptyJump_MixDetect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_CreateWindZone",
+			"abilityName": "Avatar_Kazuha_EmptyJump_CreateWindZone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_DragCamera",
+			"abilityName": "Avatar_Kazuha_EmptyJump_DragCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_MixDetectJ",
+			"abilityName": "Avatar_Kazuha_EmptyJump_MixDetectJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_1_MixJ",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_1_MixJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Constellation_6",
+			"abilityName": "Avatar_Kazuha_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_WindHole",
+			"abilityName": "Avatar_Kazuha_EmptyJump_WindHole",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_WindZone_Monster_Small",
+			"abilityName": "Avatar_Kazuha_ElementalArt_WindZone_Monster_Small",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_WindZone_Monster_Big",
+			"abilityName": "Avatar_Kazuha_ElementalArt_WindZone_Monster_Big",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_WindZone_Other",
+			"abilityName": "Avatar_Kazuha_ElementalArt_WindZone_Other",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_FlyAway",
+			"abilityName": "Avatar_Kazuha_ElementalArt_FlyAway",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Hold_EnterCD",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Hold_EnterCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Hold_Detect",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Hold_Detect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_Strike",
+			"abilityName": "Avatar_Kazuha_FlyAway_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_MixDetect",
+			"abilityName": "Avatar_Kazuha_FlyAway_MixDetect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_WindZone",
+			"abilityName": "Avatar_Kazuha_FlyAway_WindZone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_CameraBlur",
+			"abilityName": "Avatar_Kazuha_FlyAway_CameraBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_DragCamera",
+			"abilityName": "Avatar_Kazuha_FlyAway_DragCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FlyAway_MixDetectJ",
+			"abilityName": "Avatar_Kazuha_FlyAway_MixDetectJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_EmptyJump_Hold_WindHole",
+			"abilityName": "Avatar_Kazuha_EmptyJump_Hold_WindHole",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Monster_Small",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Monster_Small",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Monster_Big",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Monster_Big",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Other",
+			"abilityName": "Avatar_Kazuha_ElementalArt_Hold_WindZone_Other",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst",
+			"abilityName": "Avatar_Kazuha_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_CameraEffect",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_CameraEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_CameraBlur",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_CameraBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Strike_Damage",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Strike_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_CreateMist",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_CreateMist",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Reconnect",
+			"abilityName": "Avatar_Kazuha_Reconnect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_CreateMistJ",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_CreateMistJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Strike_Mix",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Strike_Mix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist_Initialize",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist_FieldEffect",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist_FieldEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist_Dissipate",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist_Dissipate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Delay",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Effect",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Fire",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Fire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Water",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Water",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Electric",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Electric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Ice",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_MistStrike_Wind",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_MistStrike_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist_Mix",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist_Mix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_FallingAnthem",
+			"abilityName": "Avatar_Kazuha_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_FallingAttack_HideCollider",
+			"abilityName": "Avatar_Kazuha_ElementalArt_FallingAttack_HideCollider",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_FallingAttack_LoopDamage",
+			"abilityName": "Avatar_Kazuha_ElementalArt_FallingAttack_LoopDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalArt_FallingAttack_DragCamera",
+			"abilityName": "Avatar_Kazuha_ElementalArt_FallingAttack_DragCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_1",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Kazuha_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_1_Effect",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_1_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_1_ExtraDamage",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_1_ExtraDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_1_Mix",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_1_Mix",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Fire",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Fire",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Firec",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Firec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Water",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Water",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Waterc",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Waterc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Electric",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Electric",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Electricc",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Electricc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_PermanentSkill_2_Ice",
+			"abilityName": "Avatar_Kazuha_PermanentSkill_2_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Constellation_6_WindEnchant",
+			"abilityName": "Avatar_Kazuha_Constellation_6_WindEnchant",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Constellation_6_DamageUp",
+			"abilityName": "Avatar_Kazuha_Constellation_6_DamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_DashStamina_Reduction",
+			"abilityName": "Avatar_Kazuha_DashStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_RegionAbility_Dreamland_KazuhaMovie",
+			"abilityName": "Avatar_RegionAbility_Dreamland_KazuhaMovie",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha",
+			"abilityName": "Avatar_Kazuha",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Mist_Dissipate1Avatar_Kauzha_ElementalArt_FallingAttack_WindZone",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Mist_Dissipate1Avatar_Kauzha_ElementalArt_FallingAttack_WindZone",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_Charge",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_Hold",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_Hold",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_Hold_AS5Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_BS7Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Loop9Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_Hold_AS5Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_BS7Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Loop9Emo_Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_TeamConfig_01BS",
+			"abilityName": "Avatar_Kazuha_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_TeamConfig_01Loop",
+			"abilityName": "Avatar_Kazuha_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_TeamConfig_01AS",
+			"abilityName": "Avatar_Kazuha_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_Hold_AS",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_Hold_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_BS",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Loop",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike_AS",
+			"abilityName": "Avatar_Kazuha_Skill_ElementalArt_FallingAttack_Strike_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Spine",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_BS",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_ElementalBurst_Hit",
+			"abilityName": "Avatar_Kazuha_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Spine_Loop",
+			"abilityName": "Avatar_Kazuha_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kazuha_Spine",
+			"abilityName": "Avatar_Kazuha_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

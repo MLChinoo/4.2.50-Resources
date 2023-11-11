@@ -1,0 +1,514 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Activity_CharAmusement_Yelan_ResetCD",
+			"abilityName": "Avatar_Activity_CharAmusement_Yelan_ResetCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Activity_CharAmusement_Yelan_ResetCD_Delay1Avatar_Activity_CharAmusement_Yelan_ResetCD_Delay",
+			"abilityName": "Avatar_Activity_CharAmusement_Yelan_ResetCD_Delay1Avatar_Activity_CharAmusement_Yelan_ResetCD_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PressShoot",
+			"abilityName": "Avatar_Yelan_PressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_AimPressShoot",
+			"abilityName": "Avatar_Yelan_AimPressShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootAimingArrow_Charge",
+			"abilityName": "Avatar_Yelan_ShootAimingArrow_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_01",
+			"abilityName": "Avatar_Yelan_ShootArrow_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_02",
+			"abilityName": "Avatar_Yelan_ShootArrow_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_03",
+			"abilityName": "Avatar_Yelan_ShootArrow_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_04",
+			"abilityName": "Avatar_Yelan_ShootArrow_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_05",
+			"abilityName": "Avatar_Yelan_ShootArrow_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_06",
+			"abilityName": "Avatar_Yelan_ShootArrow_06",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_Aiming",
+			"abilityName": "Avatar_Yelan_ShootArrow_Aiming",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_Bullet",
+			"abilityName": "Avatar_Yelan_ShootArrow_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_Bullet_Last",
+			"abilityName": "Avatar_Yelan_ShootArrow_Bullet_Last",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_Enchanted_WithOutWater",
+			"abilityName": "Avatar_Yelan_ShootArrow_Enchanted_WithOutWater",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShootArrow_Enchanted_WithWater",
+			"abilityName": "Avatar_Yelan_ShootArrow_Enchanted_WithWater",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_SneakArrow",
+			"abilityName": "Avatar_Yelan_SneakArrow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Sneak_Shoot",
+			"abilityName": "Avatar_Yelan_Sneak_Shoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalArt_Check",
+			"abilityName": "Avatar_Yelan_ElementalArt_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Initialize",
+			"abilityName": "Avatar_Yelan_QuietStep_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect_Line",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect_Line",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect_Line_Remover",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect_Line_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Weather",
+			"abilityName": "Avatar_Yelan_QuietStep_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_MaxTimer",
+			"abilityName": "Avatar_Yelan_QuietStep_MaxTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TurndDirection_Add",
+			"abilityName": "Avatar_Yelan_QuietStep_TurndDirection_Add",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TurndDirection_Remove",
+			"abilityName": "Avatar_Yelan_QuietStep_TurndDirection_Remove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TurndDirection",
+			"abilityName": "Avatar_Yelan_QuietStep_TurndDirection",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_StrikeEndEffect",
+			"abilityName": "Avatar_Yelan_QuietStep_StrikeEndEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_StopEndEffect",
+			"abilityName": "Avatar_Yelan_QuietStep_StopEndEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_LineStrike_Remover",
+			"abilityName": "Avatar_Yelan_QuietStep_LineStrike_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Yelan_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect_Line_Handler_DelayM",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect_Line_Handler_DelayM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect_Line_Handler",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect_Line_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_Effect_Line_Handler_Delay",
+			"abilityName": "Avatar_Yelan_QuietStep_Effect_Line_Handler_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_LineStrike",
+			"abilityName": "Avatar_Yelan_QuietStep_LineStrike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalArt_ScreenEffect",
+			"abilityName": "Avatar_Yelan_ElementalArt_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_SwitchJumpSprint",
+			"abilityName": "Avatar_Yelan_QuietStep_SwitchJumpSprint",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalArt_TriggerCollision",
+			"abilityName": "Avatar_Yelan_ElementalArt_TriggerCollision",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TriggerConstellation",
+			"abilityName": "Avatar_Yelan_QuietStep_TriggerConstellation",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TriggerBullet",
+			"abilityName": "Avatar_Yelan_QuietStep_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_FireBomb",
+			"abilityName": "Avatar_Yelan_QuietStep_FireBomb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TriggerConstellationM",
+			"abilityName": "Avatar_Yelan_QuietStep_TriggerConstellationM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_CollisionDetect",
+			"abilityName": "Avatar_Yelan_QuietStep_CollisionDetect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_ResetSneak",
+			"abilityName": "Avatar_Yelan_QuietStep_ResetSneak",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_QuietStep_TimeBomb_OnMonster",
+			"abilityName": "Avatar_Yelan_QuietStep_TimeBomb_OnMonster",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalArt_QuietStep_Bullet",
+			"abilityName": "Avatar_Yelan_ElementalArt_QuietStep_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst",
+			"abilityName": "Avatar_Yelan_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Camera_Effect",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Camera_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Yelan_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Yelan_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Camera_DungeonEffect",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Camera_DungeonEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_CameraBlur",
+			"abilityName": "Avatar_Yelan_ElementalBurst_CameraBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_CreateDice",
+			"abilityName": "Avatar_Yelan_ElementalBurst_CreateDice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Strike_Damage",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Strike_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_PostEffect",
+			"abilityName": "Avatar_Yelan_ElementalBurst_PostEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Yelan_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShareElementalArt_Handler",
+			"abilityName": "Avatar_Yelan_ShareElementalArt_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ShareElementalArt_TriggerDice",
+			"abilityName": "Avatar_Yelan_ShareElementalArt_TriggerDice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_PostEffectJ",
+			"abilityName": "Avatar_Yelan_ElementalBurst_PostEffectJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellation_6",
+			"abilityName": "Avatar_Yelan_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Yelan_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_2_Buff_OnTeam",
+			"abilityName": "Avatar_Yelan_PermanentSkill_2_Buff_OnTeam",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_2_Buff",
+			"abilityName": "Avatar_Yelan_PermanentSkill_2_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_Bullet_01",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_Bullet_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_FallingAnthem",
+			"abilityName": "Avatar_Yelan_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Handler",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Buff",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Buff_Lv1",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Buff_Lv1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Buff_Lv2",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Buff_Lv2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Buff_Lv3",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Buff_Lv3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_PermanentSkill_1_Buff_Lv4",
+			"abilityName": "Avatar_Yelan_PermanentSkill_1_Buff_Lv4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_Bullet_Extra",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_Bullet_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellatin_4_Handler",
+			"abilityName": "Avatar_Yelan_Constellatin_4_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellatin_4_Timer",
+			"abilityName": "Avatar_Yelan_Constellatin_4_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellation_6_BuffTimer",
+			"abilityName": "Avatar_Yelan_Constellation_6_BuffTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellation_6_StateHandler",
+			"abilityName": "Avatar_Yelan_Constellation_6_StateHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Constellation_6_State",
+			"abilityName": "Avatar_Yelan_Constellation_6_State",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_SneakArrow_Extra_Before",
+			"abilityName": "Avatar_Yelan_SneakArrow_Extra_Before",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_SneakArrow_Extra_After",
+			"abilityName": "Avatar_Yelan_SneakArrow_Extra_After",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan",
+			"abilityName": "Avatar_Yelan",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet4Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet4Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_TeamConfig_01BS",
+			"abilityName": "Avatar_Yelan_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_TeamConfig_01Loop",
+			"abilityName": "Avatar_Yelan_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_TeamConfig_01AS",
+			"abilityName": "Avatar_Yelan_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra4Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra4Avatar_Yelan_ElementalBurst_Dice_TriggerBullet_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Spine",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Bullet",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementBurst",
+			"abilityName": "Avatar_Yelan_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_BS",
+			"abilityName": "Avatar_Yelan_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Hit",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_BS_Once",
+			"abilityName": "Avatar_Yelan_ElementalBurst_BS_Once",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_ElementalBurst_Hit_Once",
+			"abilityName": "Avatar_Yelan_ElementalBurst_Hit_Once",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Yelan_Spine_Loop",
+			"abilityName": "Avatar_Yelan_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

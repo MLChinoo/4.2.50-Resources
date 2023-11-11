@@ -1,0 +1,374 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack",
+			"abilityName": "Avatar_Kokomi_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack_Charge",
+			"abilityName": "Avatar_Kokomi_ExtraAttack_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack_BurstMark",
+			"abilityName": "Avatar_Kokomi_ExtraAttack_BurstMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack_Charge_HasTarget",
+			"abilityName": "Avatar_Kokomi_ExtraAttack_Charge_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack_Charge_NoTarget",
+			"abilityName": "Avatar_Kokomi_ExtraAttack_Charge_NoTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraAttack_Initiate",
+			"abilityName": "Avatar_Kokomi_ExtraAttack_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Attack01",
+			"abilityName": "Avatar_Kokomi_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Attack02",
+			"abilityName": "Avatar_Kokomi_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Attack03",
+			"abilityName": "Avatar_Kokomi_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_BounceBullet",
+			"abilityName": "Avatar_Kokomi_NormalAttack_BounceBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_1_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_1_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_AngularVelocity_Timer",
+			"abilityName": "Avatar_Kokomi_NormalAttack_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_AngularVelocity",
+			"abilityName": "Avatar_Kokomi_NormalAttack_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_2_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_2_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_3_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_3_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_1_Burst_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_1_Burst_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Heal_Handler",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Heal_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Heal",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_AtkSpeeddBuff",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_AtkSpeeddBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_ReviveEnergy",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_ReviveEnergy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_2_Burst_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_2_Burst_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_3_Burst_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_3_Burst_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalArt",
+			"abilityName": "Avatar_Kokomi_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalArt_KillGadget",
+			"abilityName": "Avatar_Kokomi_ElementalArt_KillGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalArt_WaterBuff",
+			"abilityName": "Avatar_Kokomi_ElementalArt_WaterBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalArt_ElemBall",
+			"abilityName": "Avatar_Kokomi_ElementalArt_ElemBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalArt_Heal",
+			"abilityName": "Avatar_Kokomi_ElementalArt_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Hagoromo",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Hagoromo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Reset",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Reset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Move",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Move",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Attack01",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Attack02",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Attack03",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_ExtraAttack",
+			"abilityName": "Avatar_Kokomi_Hagoromo_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_ElementalArt",
+			"abilityName": "Avatar_Kokomi_Hagoromo_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Hide",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Hide",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Ripple_Hide",
+			"abilityName": "Avatar_Kokomi_Ripple_Hide",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_ChangeFollowDampTime",
+			"abilityName": "Avatar_Kokomi_Hagoromo_ChangeFollowDampTime",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo",
+			"abilityName": "Avatar_Kokomi_Hagoromo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_FootRipple_Left",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_FootRipple_Left",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_FootRipple_Right",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_FootRipple_Right",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Initiate",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_States",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_States",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Camera",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Pre_Weather",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Pre_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Emotion",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Emotion",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Weathert",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Weathert",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Weather",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Weather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_DamageBuff_HealAdd",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_DamageBuff_HealAdd",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_AtkSpeedBuff",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_AtkSpeedBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo_Remover",
+			"abilityName": "Avatar_Kokomi_Hagoromo_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_MoveOnWater_Remover",
+			"abilityName": "Avatar_Kokomi_MoveOnWater_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Hagoromo6UNIQUE_Avatar_Kokomi_ElementalBurst_DamageBuff_HealAdd",
+			"abilityName": "Avatar_Kokomi_Hagoromo6UNIQUE_Avatar_Kokomi_ElementalBurst_DamageBuff_HealAdd",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_LowHP",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_LowHP",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Heal_LowHPTarget",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Heal_LowHPTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal4Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal4Avatar_Kokomi_ElementalBurst_Heal_Predicate_Overheal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ExtraHeal_OverHeal",
+			"abilityName": "Avatar_Kokomi_ExtraHeal_OverHeal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_OverHeal",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_OverHeal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_OverHeal_Buff1UNIQUE_Avatar_Kokomi_ElementalBurst_OverHeal_Buff",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_OverHeal_Buff1UNIQUE_Avatar_Kokomi_ElementalBurst_OverHeal_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_FallingAnthem",
+			"abilityName": "Avatar_Kokomi_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_SwimStamina_Reduction",
+			"abilityName": "Avatar_Kokomi_SwimStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_CritRateDown",
+			"abilityName": "Avatar_Kokomi_CritRateDown",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_CritRate_Delta",
+			"abilityName": "Avatar_Kokomi_CritRate_Delta",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_HealAdd_Delta",
+			"abilityName": "Avatar_Kokomi_HealAdd_Delta",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi",
+			"abilityName": "Avatar_Kokomi",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_NormalAttack_Bullet_3_Damage0Avatar_Kokomi_NormalAttack_Bullet_1_Burst_Damage0Avatar_Kokomi_NormalAttack_Bullet_2_Burst_Damage0Avatar_Kokomi_NormalAttack_Bullet_3_Burst_Damage",
+			"abilityName": "Avatar_Kokomi_NormalAttack_Bullet_3_Damage0Avatar_Kokomi_NormalAttack_Bullet_1_Burst_Damage0Avatar_Kokomi_NormalAttack_Bullet_2_Burst_Damage0Avatar_Kokomi_NormalAttack_Bullet_3_Burst_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_TeamConfig_01BS",
+			"abilityName": "Avatar_Kokomi_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_TeamConfig_01Loop",
+			"abilityName": "Avatar_Kokomi_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_TeamConfig_01AS",
+			"abilityName": "Avatar_Kokomi_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Spine",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_BS",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_ElementalBurst_Hit",
+			"abilityName": "Avatar_Kokomi_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Kokomi_Spine_Loop",
+			"abilityName": "Avatar_Kokomi_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

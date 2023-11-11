@@ -1,0 +1,174 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Alhatham_ExtraAttack",
+			"abilityName": "Avatar_Alhatham_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_SkillHoldCharge",
+			"abilityName": "Avatar_Alhatham_SkillHoldCharge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalArt",
+			"abilityName": "Avatar_Alhatham_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalArt_SkillStart",
+			"abilityName": "Avatar_Alhatham_ElementalArt_SkillStart",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_Constellation_6",
+			"abilityName": "Avatar_Alhatham_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalArt_Custom",
+			"abilityName": "Avatar_Alhatham_ElementalArt_Custom",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus",
+			"abilityName": "Avatar_Alhatham_ForlornLotus",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_NormalAttack_Mark",
+			"abilityName": "Avatar_Alhatham_NormalAttack_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_IN_ForlornLotus",
+			"abilityName": "Avatar_Alhatham_IN_ForlornLotus",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_NormalMode",
+			"abilityName": "Avatar_Alhatham_NormalMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotusMode",
+			"abilityName": "Avatar_Alhatham_ForlornLotusMode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack_LV1",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack_LV1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack_LV2",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack_LV2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack_LV2_Helper",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack_LV2_Helper",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack_LV3",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack_LV3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ForlornLotus_Attack_LV3_Helper",
+			"abilityName": "Avatar_Alhatham_ForlornLotus_Attack_LV3_Helper",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalBurst",
+			"abilityName": "Avatar_Alhatham_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_Constellation_6J",
+			"abilityName": "Avatar_Alhatham_Constellation_6J",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalBurst_Aftermath",
+			"abilityName": "Avatar_Alhatham_ElementalBurst_Aftermath",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_DamageHandler",
+			"abilityName": "Avatar_Alhatham_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_PermanentSkill_2",
+			"abilityName": "Avatar_Alhatham_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_PermanentSkill_1",
+			"abilityName": "Avatar_Alhatham_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_PermanentSkill_1_CD",
+			"abilityName": "Avatar_Alhatham_PermanentSkill_1_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_Constellation_6_FX",
+			"abilityName": "Avatar_Alhatham_Constellation_6_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_FallingAnthem",
+			"abilityName": "Avatar_Alhatham_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham",
+			"abilityName": "Avatar_Alhatham",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_TeamConfig_01BS",
+			"abilityName": "Avatar_Alhatham_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_TeamConfig_01Loop",
+			"abilityName": "Avatar_Alhatham_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_TeamConfig_01AS",
+			"abilityName": "Avatar_Alhatham_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalBurst_Spine",
+			"abilityName": "Avatar_Alhatham_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalBurst_BS",
+			"abilityName": "Avatar_Alhatham_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_ElementalBurst_Hit",
+			"abilityName": "Avatar_Alhatham_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Alhatham_Spine_Loop",
+			"abilityName": "Avatar_Alhatham_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

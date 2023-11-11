@@ -1,0 +1,454 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack",
+			"abilityName": "Avatar_Nahida_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_BS_Check",
+			"abilityName": "Avatar_Nahida_ExtraAttack_BS_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Damage",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Hand_FX",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Hand_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Block_FXy",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Block_FXy",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Initialize",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Block_FX",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Block_FX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Gadget",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ExtraAttack_Delay_Damage",
+			"abilityName": "Avatar_Nahida_ExtraAttack_Delay_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Attack01",
+			"abilityName": "Avatar_Nahida_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Block_Die_01",
+			"abilityName": "Avatar_Nahida_Block_Die_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Attack02",
+			"abilityName": "Avatar_Nahida_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Block_Die_02D",
+			"abilityName": "Avatar_Nahida_Block_Die_02D",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Block_Die_02",
+			"abilityName": "Avatar_Nahida_Block_Die_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Attack03",
+			"abilityName": "Avatar_Nahida_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Block_Die_03",
+			"abilityName": "Avatar_Nahida_Block_Die_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Attack04",
+			"abilityName": "Avatar_Nahida_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt",
+			"abilityName": "Avatar_Nahida_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_HairEmission",
+			"abilityName": "Avatar_Nahida_ElementalArt_HairEmission",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_HairEmission_Remover",
+			"abilityName": "Avatar_Nahida_ElementalArt_HairEmission_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_Tag_Handler",
+			"abilityName": "Avatar_Nahida_ElementalArt_Tag_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayTag_OnMonster",
+			"abilityName": "Avatar_Nahida_RayTag_OnMonster",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_Tag_ClearTimer",
+			"abilityName": "Avatar_Nahida_ElementalArt_Tag_ClearTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_ChainCD_Handler",
+			"abilityName": "Avatar_Nahida_ElementalArt_ChainCD_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Nahida_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_DropBall",
+			"abilityName": "Avatar_Nahida_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_Click",
+			"abilityName": "Avatar_Nahida_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_Click_Strike",
+			"abilityName": "Avatar_Nahida_ElementalArt_Click_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_Click_Effect",
+			"abilityName": "Avatar_Nahida_ElementalArt_Click_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_RayCast",
+			"abilityName": "Avatar_Nahida_ElementalArt_RayCast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Trigger",
+			"abilityName": "Avatar_Nahida_RayCast_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_CloseFx",
+			"abilityName": "Avatar_Nahida_RayCast_CloseFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Handler",
+			"abilityName": "Avatar_Nahida_RayCast_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Camera_Fx",
+			"abilityName": "Avatar_Nahida_RayCast_Camera_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_HitBoxOffset",
+			"abilityName": "Avatar_Nahida_RayCast_HitBoxOffset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Bomb_OnMonster_Fx",
+			"abilityName": "Avatar_Nahida_RayCast_Bomb_OnMonster_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Bomb_OnMonster_Damage",
+			"abilityName": "Avatar_Nahida_RayCast_Bomb_OnMonster_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalArt_ScreenEffect",
+			"abilityName": "Avatar_Nahida_ElementalArt_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Reconnect_Handler",
+			"abilityName": "Avatar_Nahida_Reconnect_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Camera_Fx_OnTeam",
+			"abilityName": "Avatar_Nahida_RayCast_Camera_Fx_OnTeam",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst",
+			"abilityName": "Avatar_Nahida_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Nahida_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Camera_Effect",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Camera_Effect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Camera_PushTarget333",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Camera_PushTarget333",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Nahida_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_CreateHollow",
+			"abilityName": "Avatar_Nahida_ElementalBurst_CreateHollow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Camera_DungeonEffect",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Camera_DungeonEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_CheckAvatarElement",
+			"abilityName": "Avatar_Nahida_ElementalBurst_CheckAvatarElement",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_GVinitialize",
+			"abilityName": "Avatar_Nahida_ElementalBurst_GVinitialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_Gadget",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_TeamFormula",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_TeamFormula",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_Fx",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_LifeTimer",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_LifeTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_CheckInHollowh",
+			"abilityName": "Avatar_Nahida_ElementalBurst_CheckInHollowh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_CheckInHollow",
+			"abilityName": "Avatar_Nahida_ElementalBurst_CheckInHollow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_InDistance_Keeper5UNIQUE_Nahida_ElementalBurst_Hollow_InDistance_OnTeam",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_InDistance_Keeper5UNIQUE_Nahida_ElementalBurst_Hollow_InDistance_OnTeam",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hollow_InDistance_Keeper",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hollow_InDistance_Keeper",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_HairEmission",
+			"abilityName": "Avatar_Nahida_ElementalBurst_HairEmission",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_FallingAnthem",
+			"abilityName": "Avatar_Nahida_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_PermanentSkill_1",
+			"abilityName": "Avatar_Nahida_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_PermanentSkill_2",
+			"abilityName": "Avatar_Nahida_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_PermanentSkill_EnhanceChainDamage",
+			"abilityName": "Avatar_Nahida_PermanentSkill_EnhanceChainDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6",
+			"abilityName": "Avatar_Nahida_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6_AttackState",
+			"abilityName": "Avatar_Nahida_Constellation_6_AttackState",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6_Trigger",
+			"abilityName": "Avatar_Nahida_Constellation_6_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6_Fx",
+			"abilityName": "Avatar_Nahida_Constellation_6_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6_Timer",
+			"abilityName": "Avatar_Nahida_Constellation_6_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Constellation_6_ReduceNum",
+			"abilityName": "Avatar_Nahida_Constellation_6_ReduceNum",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_RayCast_Quest_Gadget_Call",
+			"abilityName": "Avatar_Nahida_RayCast_Quest_Gadget_Call",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida",
+			"abilityName": "Avatar_Nahida",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Click",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Click_AS",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Click_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Move",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Move",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Loop",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Hold",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Hold",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Skill_ElementalArt_Hold_AS",
+			"abilityName": "Avatar_Nahida_Skill_ElementalArt_Hold_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_TeamConfig_01BS",
+			"abilityName": "Avatar_Nahida_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_TeamConfig_01Loop",
+			"abilityName": "Avatar_Nahida_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_TeamConfig_01AS",
+			"abilityName": "Avatar_Nahida_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Spine",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_BS",
+			"abilityName": "Avatar_Nahida_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementalBurst_Hit",
+			"abilityName": "Avatar_Nahida_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_ElementArt_Buff",
+			"abilityName": "Avatar_Nahida_ElementArt_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Spine_Loop",
+			"abilityName": "Avatar_Nahida_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Nahida_Spine",
+			"abilityName": "Avatar_Nahida_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Eula_ExtraAttack",
+			"abilityName": "Avatar_Eula_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_ExtraAttack_1",
+			"abilityName": "Avatar_Eula_ElementalArt_ExtraAttack_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_ExtraAttack_2",
+			"abilityName": "Avatar_Eula_ElementalArt_ExtraAttack_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt",
+			"abilityName": "Avatar_Eula_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_SetMark",
+			"abilityName": "Avatar_Eula_ElementalArt_SetMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_Click",
+			"abilityName": "Avatar_Eula_ElementalArt_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_Burst",
+			"abilityName": "Avatar_Eula_ElementalArt_Burst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst",
+			"abilityName": "Avatar_Eula_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_PostEffect",
+			"abilityName": "Avatar_Eula_ElementalBurst_PostEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Eula_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_Attack",
+			"abilityName": "Avatar_Eula_ElementalBurst_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_Judgment",
+			"abilityName": "Avatar_Eula_ElementalBurst_Judgment",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_NormalAttackDamage_Handler",
+			"abilityName": "Avatar_Eula_NormalAttackDamage_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_FallingAnthem",
+			"abilityName": "Avatar_Eula_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot1",
+			"abilityName": "Avatar_Eula_Plot1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot_NoHarm",
+			"abilityName": "Avatar_Eula_Plot_NoHarm",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot_Fail",
+			"abilityName": "Avatar_Eula_Plot_Fail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot2",
+			"abilityName": "Avatar_Eula_Plot2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot_Throw",
+			"abilityName": "Avatar_Eula_Plot_Throw",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot3",
+			"abilityName": "Avatar_Eula_Plot3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Plot_Nofrozen",
+			"abilityName": "Avatar_Eula_Plot_Nofrozen",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula",
+			"abilityName": "Avatar_Eula",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_plot",
+			"abilityName": "Avatar_Eula_plot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_BS",
+			"abilityName": "Avatar_Eula_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_Click_AS",
+			"abilityName": "Avatar_Eula_ElementalArt_Click_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_Charge",
+			"abilityName": "Avatar_Eula_ElementalArt_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalArt_Charge_AS",
+			"abilityName": "Avatar_Eula_ElementalArt_Charge_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_TeamConfig_01BS",
+			"abilityName": "Avatar_Eula_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_TeamConfig_01Loop",
+			"abilityName": "Avatar_Eula_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_TeamConfig_01AS",
+			"abilityName": "Avatar_Eula_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_Spine",
+			"abilityName": "Avatar_Eula_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_BS",
+			"abilityName": "Avatar_Eula_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_ElementalBurst_Hit",
+			"abilityName": "Avatar_Eula_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Eula_Spine_Loop",
+			"abilityName": "Avatar_Eula_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

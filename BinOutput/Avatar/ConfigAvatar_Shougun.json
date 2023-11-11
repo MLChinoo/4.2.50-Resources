@@ -1,0 +1,124 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Shougun_ExtraAttack",
+			"abilityName": "Avatar_Shougun_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ElementalArt",
+			"abilityName": "Avatar_Shougun_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Elfh",
+			"abilityName": "Avatar_Shougun_Elfh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Elf",
+			"abilityName": "Avatar_Shougun_Elf",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ChargeLevel",
+			"abilityName": "Avatar_Shougun_ChargeLevel",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ElementalBurst",
+			"abilityName": "Avatar_Shougun_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_FallingAnthem",
+			"abilityName": "Avatar_Shougun_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarOMonster_Shougun_Mitakenarukami_Mitakenarukami_BurstAtk02_AbsorbEnergyFromAvatar",
+			"abilityName": "AvatarOMonster_Shougun_Mitakenarukami_Mitakenarukami_BurstAtk02_AbsorbEnergyFromAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun",
+			"abilityName": "Avatar_Shougun",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Skill_ElementalArt",
+			"abilityName": "Avatar_Shougun_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Shougun_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_FallingAttack_AS_01",
+			"abilityName": "Avatar_Shougun_FallingAttack_AS_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_FallingAttack_AS_02",
+			"abilityName": "Avatar_Shougun_FallingAttack_AS_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Katana_FallingAttack_AS_01",
+			"abilityName": "Avatar_Shougun_Katana_FallingAttack_AS_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_TeamConfig_01BS",
+			"abilityName": "Avatar_Shougun_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_TeamConfig_01Loop",
+			"abilityName": "Avatar_Shougun_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_TeamConfig_01AS",
+			"abilityName": "Avatar_Shougun_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Katana_FallingAttack_AS_02",
+			"abilityName": "Avatar_Shougun_Katana_FallingAttack_AS_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Spine",
+			"abilityName": "Avatar_Shougun_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ElementalBurst_Spine",
+			"abilityName": "Avatar_Shougun_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ElementalBurst_BS",
+			"abilityName": "Avatar_Shougun_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ElementalBurst_Hit",
+			"abilityName": "Avatar_Shougun_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_Spine_Loop",
+			"abilityName": "Avatar_Shougun_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Shougun_ChargeLevel0BurstSkillEnergy_ExtraChargeLevel_OtherElemRatio",
+			"abilityName": "Avatar_Shougun_ChargeLevel0BurstSkillEnergy_ExtraChargeLevel_OtherElemRatio",
+			"abilityOverride": ""
+		}
+	]
+}

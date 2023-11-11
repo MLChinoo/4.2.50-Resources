@@ -1,0 +1,154 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Freminet_ExtraAttack",
+			"abilityName": "Avatar_Freminet_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_DropBall",
+			"abilityName": "Avatar_Freminet_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack04_Hide",
+			"abilityName": "Avatar_Freminet_Attack04_Hide",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack04_HideEff",
+			"abilityName": "Avatar_Freminet_Attack04_HideEff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalArt",
+			"abilityName": "Avatar_Freminet_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_SkillBuff",
+			"abilityName": "Avatar_Freminet_SkillBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack01_Ice",
+			"abilityName": "Avatar_Freminet_Attack01_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack02_IceB",
+			"abilityName": "Avatar_Freminet_Attack02_IceB",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack03_IceJ",
+			"abilityName": "Avatar_Freminet_Attack03_IceJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack04_Ice",
+			"abilityName": "Avatar_Freminet_Attack04_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_SkillBuff_EffEnd",
+			"abilityName": "Avatar_Freminet_SkillBuff_EffEnd",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack02_Ice",
+			"abilityName": "Avatar_Freminet_Attack02_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Attack03_Ice",
+			"abilityName": "Avatar_Freminet_Attack03_Ice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalArt_Strike",
+			"abilityName": "Avatar_Freminet_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ArkheGrade",
+			"abilityName": "Avatar_Freminet_ArkheGrade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ArkheGrade_CD",
+			"abilityName": "Avatar_Freminet_ArkheGrade_CD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalArt_2",
+			"abilityName": "Avatar_Freminet_ElementalArt_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalArt_3",
+			"abilityName": "Avatar_Freminet_ElementalArt_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalBurst_Strike",
+			"abilityName": "Avatar_Freminet_ElementalBurst_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_ElementalBurst",
+			"abilityName": "Avatar_Freminet_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Utral_Buff",
+			"abilityName": "Avatar_Freminet_Utral_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_FallingAnthem",
+			"abilityName": "Avatar_Freminet_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_DamageHandler",
+			"abilityName": "Avatar_Freminet_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_PermanentSkill_2",
+			"abilityName": "Avatar_Freminet_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_Constellation_6",
+			"abilityName": "Avatar_Freminet_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_DivingStamina_Reduction",
+			"abilityName": "Avatar_Freminet_DivingStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet",
+			"abilityName": "Avatar_Freminet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_TeamConfig_01BS",
+			"abilityName": "Avatar_Freminet_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_TeamConfig_01Loop",
+			"abilityName": "Avatar_Freminet_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Freminet_TeamConfig_01AS",
+			"abilityName": "Avatar_Freminet_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

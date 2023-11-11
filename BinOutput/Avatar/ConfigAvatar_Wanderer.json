@@ -1,0 +1,574 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Handler",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack",
+			"abilityName": "Avatar_Wanderer_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Charge",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Charge_HasTarget",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Charge_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Charge_NoTarget",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Charge_NoTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Initiate",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Air_Charge",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Air_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Air_Charge_HasTarget",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Air_Charge_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Air_Charge_NoTarget",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Air_Charge_NoTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ExtraAttack_Air_Initiate",
+			"abilityName": "Avatar_Wanderer_ExtraAttack_Air_Initiate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAir_Flag",
+			"abilityName": "Avatar_Wanderer_HoverAir_Flag",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HatVisible_Flag",
+			"abilityName": "Avatar_Wanderer_HatVisible_Flag",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HatVisible_Hide_Handler",
+			"abilityName": "Avatar_Wanderer_HatVisible_Hide_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HatVisible_SetGV",
+			"abilityName": "Avatar_Wanderer_HatVisible_SetGV",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Attack01",
+			"abilityName": "Avatar_Wanderer_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Attack02",
+			"abilityName": "Avatar_Wanderer_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Attack03",
+			"abilityName": "Avatar_Wanderer_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_Bullet_1",
+			"abilityName": "Avatar_Wanderer_NormalAttack_Bullet_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_01_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_NormalAttack_01_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_01_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_Bullet_2",
+			"abilityName": "Avatar_Wanderer_NormalAttack_Bullet_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_02_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_NormalAttack_02_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_02_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_Bullet_3",
+			"abilityName": "Avatar_Wanderer_NormalAttack_Bullet_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_03_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_NormalAttack_03_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_03_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_Bullet_4",
+			"abilityName": "Avatar_Wanderer_NormalAttack_Bullet_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_04_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_NormalAttack_04_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity6Avatar_Wanderer_NormalAttack_04_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Launch",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Launch",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Ring_Handler",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Ring_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Kasa_Ring_Idle",
+			"abilityName": "Avatar_Wanderer_Kasa_Ring_Idle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Kasa_Ring_Move",
+			"abilityName": "Avatar_Wanderer_Kasa_Ring_Move",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Kasa_Ring_Dash",
+			"abilityName": "Avatar_Wanderer_Kasa_Ring_Dash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Kasa_Ring_DashHold",
+			"abilityName": "Avatar_Wanderer_Kasa_Ring_DashHold",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Kasa_Ring_Recovery",
+			"abilityName": "Avatar_Wanderer_Kasa_Ring_Recovery",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAir_Mark",
+			"abilityName": "Avatar_Wanderer_HoverAir_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Ring",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Ring",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Remover",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Constellation_6_Handler",
+			"abilityName": "Avatar_Wanderer_Constellation_6_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Constellation_6_Count",
+			"abilityName": "Avatar_Wanderer_Constellation_6_Count",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Constellation_6_Buff",
+			"abilityName": "Avatar_Wanderer_Constellation_6_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Dash",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Dash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Up",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Up",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Recovery",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Recovery",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HitFallToGround_Visible_Handler",
+			"abilityName": "Avatar_Wanderer_HitFallToGround_Visible_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Recovery_Handler",
+			"abilityName": "Avatar_Wanderer_Recovery_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Recovery_AddEndure",
+			"abilityName": "Avatar_Wanderer_Recovery_AddEndure",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_1",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_2",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_3",
+			"abilityName": "Avatar_Wanderer_ElementalArt_HoverAir_Shoot_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_1",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_01_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_HoverAttack_01_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_01_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_2",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_02_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_HoverAttack_02_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_02_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_3",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_03_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_HoverAttack_03_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_03_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_4",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_04_Bullet_VFX",
+			"abilityName": "Avatar_Wanderer_HoverAttack_04_Bullet_VFX",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity_Timer",
+			"abilityName": "Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity",
+			"abilityName": "Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity5Avatar_Wanderer_HoverAttack_04_Bullet_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_1_Extra",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_1_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_2_Extra",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_2_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_3_Extra",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_3_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_4_Extra",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_4_Extra",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst",
+			"abilityName": "Avatar_Wanderer_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Emotion",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Emotion",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_SkinControl",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_SkinControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_FogFX01",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_FogFX01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Bullet",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_PermanentSkill_1",
+			"abilityName": "Avatar_Wanderer_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_ResetMixTypey",
+			"abilityName": "Avatar_Wanderer_ElementalArt_ResetMixTypey",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_ResetMixType",
+			"abilityName": "Avatar_Wanderer_ElementalArt_ResetMixType",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_PermanentSkill_2",
+			"abilityName": "Avatar_Wanderer_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_PermanentSkill_2_HasTarget",
+			"abilityName": "Avatar_Wanderer_PermanentSkill_2_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_PermanentSkill_2_NoTarget",
+			"abilityName": "Avatar_Wanderer_PermanentSkill_2_NoTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_PermanentSkill_2_RandomCheck",
+			"abilityName": "Avatar_Wanderer_PermanentSkill_2_RandomCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_HoverDash",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_HoverDash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Trail",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Trail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Core",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Core",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Hit",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_Extra_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_FallingAnthem",
+			"abilityName": "Avatar_Wanderer_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_FallAnthem_BS_Wind",
+			"abilityName": "Avatar_Wanderer_FallAnthem_BS_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_FallAnthem_Self_Wind",
+			"abilityName": "Avatar_Wanderer_FallAnthem_Self_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_FallAnthem_Strike_01_Wind",
+			"abilityName": "Avatar_Wanderer_FallAnthem_Strike_01_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_FallAnthem_Strike_02_Wind",
+			"abilityName": "Avatar_Wanderer_FallAnthem_Strike_02_Wind",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer",
+			"abilityName": "Avatar_Wanderer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_TeamConfig_01BS",
+			"abilityName": "Avatar_Wanderer_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_TeamConfig_01Loop",
+			"abilityName": "Avatar_Wanderer_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_TeamConfig_01AS",
+			"abilityName": "Avatar_Wanderer_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalArt_Bullet_HoverDash_Trigger5Avatar_Wanderer_ElementalArt_Bullet_HoverDash_Trigger",
+			"abilityName": "Avatar_Wanderer_ElementalArt_Bullet_HoverDash_Trigger5Avatar_Wanderer_ElementalArt_Bullet_HoverDash_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Spine",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Spine_Foot",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Spine_Foot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Spine",
+			"abilityName": "Avatar_Wanderer_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer02_Spine",
+			"abilityName": "Avatar_Wanderer02_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_BS",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_ElementalBurst_Hit",
+			"abilityName": "Avatar_Wanderer_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Spine_Loop_Hand",
+			"abilityName": "Avatar_Wanderer_Spine_Loop_Hand",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_Spine_Loop",
+			"abilityName": "Avatar_Wanderer_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Wanderer_02_Spine",
+			"abilityName": "Avatar_Wanderer_02_Spine",
+			"abilityOverride": ""
+		}
+	]
+}

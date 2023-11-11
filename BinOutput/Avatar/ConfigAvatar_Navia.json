@@ -1,0 +1,144 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Navia_ExtraAttack",
+			"abilityName": "Avatar_Navia_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_Attack_3_Create_Gadget",
+			"abilityName": "Avatar_Navia_Attack_3_Create_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_Crystal_Seed_Get_Controller",
+			"abilityName": "Avatar_Navia_Crystal_Seed_Get_Controller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar2Navia_Crystal_Seed_Get_Controller_Self_State_Param",
+			"abilityName": "Avatar2Navia_Crystal_Seed_Get_Controller_Self_State_Param",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt",
+			"abilityName": "Avatar_Navia_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_RayCast_CloseFx",
+			"abilityName": "Avatar_Navia_RayCast_CloseFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_EArt_Real_Attak",
+			"abilityName": "Avatar_Navia_EArt_Real_Attak",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_EArt_Real_Attako",
+			"abilityName": "Avatar_Navia_EArt_Real_Attako",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_Elemental_Art_ElemBall_Handler",
+			"abilityName": "Avatar_Navia_Elemental_Art_ElemBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_PermanentSkill_1J",
+			"abilityName": "Avatar_Navia_PermanentSkill_1J",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_Pneuma",
+			"abilityName": "Avatar_Navia_ElementalArt_Pneuma",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_ShotGun_Bullet",
+			"abilityName": "Avatar_Navia_ElementalArt_ShotGun_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst",
+			"abilityName": "Avatar_Navia_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Navia_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_Burst",
+			"abilityName": "Avatar_Navia_Burst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_NormalAttackDamage",
+			"abilityName": "Avatar_Navia_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_PermanentSkill_1",
+			"abilityName": "Avatar_Navia_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_PermanentSkill_1_NA_Up_Buff",
+			"abilityName": "Avatar_Navia_PermanentSkill_1_NA_Up_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_FallingAnthem",
+			"abilityName": "Avatar_Navia_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia",
+			"abilityName": "Avatar_Navia",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_Insert",
+			"abilityName": "Avatar_Navia_ElementalArt_Insert",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_Insert_AS",
+			"abilityName": "Avatar_Navia_ElementalArt_Insert_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_Recycle",
+			"abilityName": "Avatar_Navia_ElementalArt_Recycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalArt_Recycle_AS",
+			"abilityName": "Avatar_Navia_ElementalArt_Recycle_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst_Loop_A",
+			"abilityName": "Avatar_Navia_ElementalBurst_Loop_A",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst_Loop_B",
+			"abilityName": "Avatar_Navia_ElementalBurst_Loop_B",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst_End",
+			"abilityName": "Avatar_Navia_ElementalBurst_End",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Navia_ElementalBurst_AS",
+			"abilityName": "Avatar_Navia_ElementalBurst_AS",
+			"abilityOverride": ""
+		}
+	]
+}

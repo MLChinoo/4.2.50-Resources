@@ -1,0 +1,204 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Baizhuer_ExtraAttack",
+			"abilityName": "Avatar_Baizhuer_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ExtraAttack_Gadget",
+			"abilityName": "Avatar_Baizhuer_ExtraAttack_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ExtraAttack_Gadget_Fx",
+			"abilityName": "Avatar_Baizhuer_ExtraAttack_Gadget_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ExtraAttack_Delay_Damage",
+			"abilityName": "Avatar_Baizhuer_ExtraAttack_Delay_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Attack01",
+			"abilityName": "Avatar_Baizhuer_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Attack02",
+			"abilityName": "Avatar_Baizhuer_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Attack03",
+			"abilityName": "Avatar_Baizhuer_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Attack04",
+			"abilityName": "Avatar_Baizhuer_Attack04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalArt",
+			"abilityName": "Avatar_Baizhuer_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalArt_AngularVelocity",
+			"abilityName": "Avatar_Baizhuer_ElementalArt_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalArt_AngularVelocity_Timer",
+			"abilityName": "Avatar_Baizhuer_ElementalArt_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalArt_AvatarCheck",
+			"abilityName": "Avatar_Baizhuer_ElementalArt_AvatarCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Heal_ControlAbiilty",
+			"abilityName": "Avatar_Baizhuer_Heal_ControlAbiilty",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Funnel_Handler",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Funnel_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Funnel_Trigger",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Funnel_Trigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_GetLocalAvatarTarget",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_GetLocalAvatarTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Funnel_Shoot",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Funnel_Shoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Burst_HasTarget",
+			"abilityName": "Avatar_Baizhuer_Burst_HasTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Funnel_ShootPos",
+			"abilityName": "Avatar_Baizhuer_Funnel_ShootPos",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_AngularVelocity_Timer",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_AngularVelocity_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_AngularVelocity",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_AngularVelocity",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_PermanentSkill_1",
+			"abilityName": "Avatar_Baizhuer_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_HPRatio_Check",
+			"abilityName": "Avatar_Baizhuer_HPRatio_Check",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Constellation_ShootPos",
+			"abilityName": "Avatar_Baizhuer_Constellation_ShootPos",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_HealWhenGather",
+			"abilityName": "Avatar_Baizhuer_HealWhenGather",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_FallingAnthem",
+			"abilityName": "Avatar_Baizhuer_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer",
+			"abilityName": "Avatar_Baizhuer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_TeamConfig_01BS",
+			"abilityName": "Avatar_Baizhuer_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_TeamConfig_01Loop",
+			"abilityName": "Avatar_Baizhuer_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_TeamConfig_01AS",
+			"abilityName": "Avatar_Baizhuer_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Spine",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Spine_Hand",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Spine_Hand",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Spine",
+			"abilityName": "Avatar_Baizhuer_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_BS",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_BuffBS",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_BuffBS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_Buff",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementBurst",
+			"abilityName": "Avatar_Baizhuer_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_ElementalBurst_BuffHit",
+			"abilityName": "Avatar_Baizhuer_ElementalBurst_BuffHit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Baizhuer_Spine_Loop",
+			"abilityName": "Avatar_Baizhuer_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

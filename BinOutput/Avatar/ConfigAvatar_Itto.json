@@ -1,0 +1,364 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack",
+			"abilityName": "Avatar_Itto_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraHoldChargingM",
+			"abilityName": "Avatar_Itto_ExtraHoldChargingM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequencyU",
+			"abilityName": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequencyU",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraHoldCharging",
+			"abilityName": "Avatar_Itto_ExtraHoldCharging",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequency",
+			"abilityName": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequency",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequencyM",
+			"abilityName": "Avatar_Itto_ExtraAttackTrigger_HighTickFrequencyM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_SpecialExtra_Damage",
+			"abilityName": "Avatar_Itto_SpecialExtra_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_SpecialExtra_Damage_Ghost",
+			"abilityName": "Avatar_Itto_SpecialExtra_Damage_Ghost",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Symbol_Handler",
+			"abilityName": "Avatar_Itto_Symbol_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Calculate_ExtraCombo",
+			"abilityName": "Avatar_Itto_Calculate_ExtraCombo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Calculate_ClearExtraCombo",
+			"abilityName": "Avatar_Itto_Calculate_ClearExtraCombo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_SpecialExtra_TipEffect",
+			"abilityName": "Avatar_Itto_SpecialExtra_TipEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ComboAddSymbol_Handler",
+			"abilityName": "Avatar_Itto_ComboAddSymbol_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_2ndNormalAttack_AddSymbol",
+			"abilityName": "Avatar_Itto_2ndNormalAttack_AddSymbol",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_LastNormalAttack_AddSymbol",
+			"abilityName": "Avatar_Itto_LastNormalAttack_AddSymbol",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ForeNormalAttack_AddSymbol",
+			"abilityName": "Avatar_Itto_ForeNormalAttack_AddSymbol",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Mask_Timer",
+			"abilityName": "Avatar_Itto_Mask_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArtAddSymbol_Handler",
+			"abilityName": "Avatar_Itto_ElementalArtAddSymbol_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_SymbolEffect_Handler",
+			"abilityName": "Avatar_Itto_SymbolEffect_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Mask_Handler",
+			"abilityName": "Avatar_Itto_Mask_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Symbol_Cost",
+			"abilityName": "Avatar_Itto_Symbol_Cost",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack_Mask",
+			"abilityName": "Avatar_Itto_ExtraAttack_Mask",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt",
+			"abilityName": "Avatar_Itto_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_ChargeRune",
+			"abilityName": "Avatar_Itto_ElementalArt_ChargeRune",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_SaveNormalCombo",
+			"abilityName": "Avatar_Itto_ElementalArt_SaveNormalCombo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_Strike",
+			"abilityName": "Avatar_Itto_ElementalArt_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_HitCheck",
+			"abilityName": "Avatar_Itto_ElementalArt_HitCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_DropBall",
+			"abilityName": "Avatar_Itto_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_CreateBull",
+			"abilityName": "Avatar_Itto_ElementalArt_CreateBull",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_CreateBullM",
+			"abilityName": "Avatar_Itto_ElementalArt_CreateBullM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_CreateGadget",
+			"abilityName": "Avatar_Itto_ElementalArt_CreateGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Gadget_OniBull_Bullet",
+			"abilityName": "Avatar_Itto_Gadget_OniBull_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalArt_CreateGadgeth",
+			"abilityName": "Avatar_Itto_ElementalArt_CreateGadgeth",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Gadget_OniBull",
+			"abilityName": "Avatar_Itto_Gadget_OniBull",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Mask_TimerU",
+			"abilityName": "Avatar_Itto_Mask_TimerU",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst",
+			"abilityName": "Avatar_Itto_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Itto_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Itto_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Itto_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_CameraBlur",
+			"abilityName": "Avatar_Itto_ElementalBurst_CameraBlur",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Itto_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_WeatherChange_Pre",
+			"abilityName": "Avatar_Itto_ElementalBurst_WeatherChange_Pre",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Itto_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Buff_AddDurability",
+			"abilityName": "Avatar_Itto_ElementalBurst_Buff_AddDurability",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Buff",
+			"abilityName": "Avatar_Itto_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_CameraEffectS",
+			"abilityName": "Avatar_Itto_ElementalBurst_CameraEffectS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_CameraEffect",
+			"abilityName": "Avatar_Itto_ElementalBurst_CameraEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Itto_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_WeatherChangeJ",
+			"abilityName": "Avatar_Itto_ElementalBurst_WeatherChangeJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_FallingAnthem",
+			"abilityName": "Avatar_Itto_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Attack_DamageHandler",
+			"abilityName": "Avatar_Itto_Attack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_PermanentSkill_1",
+			"abilityName": "Avatar_Itto_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack_AddEndure",
+			"abilityName": "Avatar_Itto_ExtraAttack_AddEndure",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack_ComboSpeed_Handler",
+			"abilityName": "Avatar_Itto_ExtraAttack_ComboSpeed_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack_ComboSpeed",
+			"abilityName": "Avatar_Itto_ExtraAttack_ComboSpeed",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_PermanentSkill_2",
+			"abilityName": "Avatar_Itto_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ExtraAttack_DamageUp",
+			"abilityName": "Avatar_Itto_ExtraAttack_DamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_SymbolBurst",
+			"abilityName": "Avatar_Itto_Constellation_SymbolBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_HotReviveSymbol_Delay",
+			"abilityName": "Avatar_Itto_Constellation_HotReviveSymbol_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_HotReviveSymbol",
+			"abilityName": "Avatar_Itto_Constellation_HotReviveSymbol",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_CalculateRockAvatar",
+			"abilityName": "Avatar_Itto_Constellation_CalculateRockAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_ReduceCD",
+			"abilityName": "Avatar_Itto_Constellation_ReduceCD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_6",
+			"abilityName": "Avatar_Itto_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Constellation_CritDamageUp",
+			"abilityName": "Avatar_Itto_Constellation_CritDamageUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto",
+			"abilityName": "Avatar_Itto",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_TeamConfig_01BS",
+			"abilityName": "Avatar_Itto_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_TeamConfig_01Loop",
+			"abilityName": "Avatar_Itto_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_TeamConfig_01AS",
+			"abilityName": "Avatar_Itto_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Spine",
+			"abilityName": "Avatar_Itto_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_BS",
+			"abilityName": "Avatar_Itto_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_ElementalBurst_Hit",
+			"abilityName": "Avatar_Itto_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Itto_Spine_Loop",
+			"abilityName": "Avatar_Itto_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,504 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Neuvillette_Attack01",
+			"abilityName": "Avatar_Neuvillette_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Attack02",
+			"abilityName": "Avatar_Neuvillette_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Attack03",
+			"abilityName": "Avatar_Neuvillette_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Stick_Handler",
+			"abilityName": "Avatar_Neuvillette_Stick_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_StickRemover",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_StickRemover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Levitate",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Levitate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Levitate_HitBoxOffset",
+			"abilityName": "Avatar_Neuvillette_Levitate_HitBoxOffset",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_CountFx",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_CountFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Absorb",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Absorb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Attack",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Attack_StateMark",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Attack_StateMark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Attack_UnreadyF",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Attack_UnreadyF",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Charge_Handler",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Charge_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Trans_CameraShake",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Trans_CameraShake",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Wing_FxFadeR",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Wing_FxFadeR",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Wing_FxFade",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Wing_FxFade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_ScreenEffect",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Attack_Unready",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Attack_Unready",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_Handler",
+			"abilityName": "Avatar_Neuvillette_Core_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_AddCore",
+			"abilityName": "Avatar_Neuvillette_AddCore",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_CostCore",
+			"abilityName": "Avatar_Neuvillette_CostCore",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_AddCore_DelayTimer",
+			"abilityName": "Avatar_Neuvillette_AddCore_DelayTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_AddCore_DelayTimer7",
+			"abilityName": "Avatar_Neuvillette_AddCore_DelayTimer7",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_FullAttack_Delay",
+			"abilityName": "Avatar_Neuvillette_FullAttack_Delay",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Absorb_Gadget",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Absorb_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_GadgetJ",
+			"abilityName": "Avatar_Neuvillette_Core_GadgetJ",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Attack_Gadget",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Attack_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Camera_Shake",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Camera_Shake",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_StateCheck",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_StateCheck",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Wing_FxFadeM",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Wing_FxFadeM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_LoseHp",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_LoseHp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_Buff_Handler",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_Buff_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_StateCheckM",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_StateCheckM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_Gadget",
+			"abilityName": "Avatar_Neuvillette_Core_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_Gadget_Eff",
+			"abilityName": "Avatar_Neuvillette_Core_Gadget_Eff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_Fx",
+			"abilityName": "Avatar_Neuvillette_Core_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_Bullet",
+			"abilityName": "Avatar_Neuvillette_Core_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt",
+			"abilityName": "Avatar_Neuvillette_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_DropCore_Handler",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_DropCore_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_DropCore",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_DropCore",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_DropBall",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_Camera",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_Arkhe_Handler",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_Arkhe_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_Arkhe_CDTimer",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_Arkhe_CDTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalArt_Arkhe_DelayStrike",
+			"abilityName": "Avatar_Neuvillette_ElementalArt_Arkhe_DelayStrike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Camera_Fx",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Camera_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_CameraShakeB",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_CameraShakeB",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_ExitCamera",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_ExitCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Camera_PushTarget333",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Camera_PushTarget333",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Camera_FogEffect",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Camera_FogEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_ScreenEffect",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_ScreenEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_CameraShake",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_CameraShake",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Strike_Once",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Strike_Once",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Strike_Twice",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Strike_Twice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_Strike_Thrice",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_Strike_Thrice",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ElementalBurst_WeatherChange6UNIQUE_Avatar_Neuvillette_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Neuvillette_ElementalBurst_WeatherChange6UNIQUE_Avatar_Neuvillette_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_FallingAnthem",
+			"abilityName": "Avatar_Neuvillette_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_1",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_1_BuffHandler",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_1_BuffHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_1_Handler",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_1_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_CheckWaterReaction_OnAvatar",
+			"abilityName": "Avatar_Neuvillette_CheckWaterReaction_OnAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Streamc",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Streamc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Overgrowc",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Overgrowc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Freezec",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Freezec",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Shockc",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Shockc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_SwirlWaterc",
+			"abilityName": "Avatar_Neuvillette_ReactionType_SwirlWaterc",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_CrystallizeWater",
+			"abilityName": "Avatar_Neuvillette_ReactionType_CrystallizeWater",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Stream",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Stream",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Overgrow",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Overgrow",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Freeze",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Freeze",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_Shock",
+			"abilityName": "Avatar_Neuvillette_ReactionType_Shock",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ReactionType_SwirlWater",
+			"abilityName": "Avatar_Neuvillette_ReactionType_SwirlWater",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_Lv1",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_Lv1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_Lv2",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_Lv2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_Lv3",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_Lv3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_2",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_2_CalculatorM",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_2_CalculatorM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_2_Buff",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_2_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_PermanentSkill_2_Calculator",
+			"abilityName": "Avatar_Neuvillette_PermanentSkill_2_Calculator",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6",
+			"abilityName": "Avatar_Neuvillette_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6_Handler",
+			"abilityName": "Avatar_Neuvillette_Constellation_6_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6_Attack",
+			"abilityName": "Avatar_Neuvillette_Constellation_6_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6_Absorb",
+			"abilityName": "Avatar_Neuvillette_Constellation_6_Absorb",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Core_HandlerD",
+			"abilityName": "Avatar_Neuvillette_Core_HandlerD",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6_CDTimer",
+			"abilityName": "Avatar_Neuvillette_Constellation_6_CDTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_Constellation_6_Bullet",
+			"abilityName": "Avatar_Neuvillette_Constellation_6_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_DiveDashSpeedUp",
+			"abilityName": "Avatar_Neuvillette_DiveDashSpeedUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette",
+			"abilityName": "Avatar_Neuvillette",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Neuvillette_Stick",
+			"abilityName": "AvatarItem_Neuvillette_Stick",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Neuvillette_Stick_Nolight",
+			"abilityName": "AvatarItem_Neuvillette_Stick_Nolight",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Neuvillette_ExtraAttack_HitOnEnemy",
+			"abilityName": "Avatar_Neuvillette_ExtraAttack_HitOnEnemy",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,314 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Keqing_ExtraAttack",
+			"abilityName": "Avatar_Keqing_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ExtraAttack_ExplodeGadget_Eff",
+			"abilityName": "Avatar_Keqing_ExtraAttack_ExplodeGadget_Eff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ExtraAttack_ExplodeGadget",
+			"abilityName": "Avatar_Keqing_ExtraAttack_ExplodeGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_NormalAttack_Handler",
+			"abilityName": "Avatar_Keqing_NormalAttack_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_NormalAttack05_CreateBullet",
+			"abilityName": "Avatar_Keqing_NormalAttack05_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_NormalAttack05_Bullet",
+			"abilityName": "Avatar_Keqing_NormalAttack05_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Electrans_Click",
+			"abilityName": "Avatar_Keqing_Electrans_Click",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Electrans_Charge",
+			"abilityName": "Avatar_Keqing_Electrans_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Charge_Aim",
+			"abilityName": "Avatar_Keqing_ElementalArt_Charge_Aim",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Electrans_SetGadget",
+			"abilityName": "Avatar_Keqing_Electrans_SetGadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Electrans_Part2",
+			"abilityName": "Avatar_Keqing_Electrans_Part2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_HideSpark",
+			"abilityName": "Avatar_Keqing_ElementalArt_HideSpark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Break1_Buff",
+			"abilityName": "Avatar_Keqing_Break1_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Electrans_Strike",
+			"abilityName": "Avatar_Keqing_Electrans_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Strike_Hit",
+			"abilityName": "Avatar_Keqing_ElementalArt_Strike_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Bullet",
+			"abilityName": "Avatar_Keqing_ElementalArt_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Hit",
+			"abilityName": "Avatar_Keqing_ElementalArt_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Trap",
+			"abilityName": "Avatar_Keqing_ElementalArt_Trap",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Trap_Die",
+			"abilityName": "Avatar_Keqing_ElementalArt_Trap_Die",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_TrapBurst",
+			"abilityName": "Avatar_Keqing_ElementalArt_TrapBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Camera",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_ScreenEffect_01",
+			"abilityName": "Avatar_Keqing_ElementalBurst_ScreenEffect_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_CameraEff",
+			"abilityName": "Avatar_Keqing_ElementalBurst_CameraEff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Field",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Field",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst",
+			"abilityName": "Avatar_Keqing_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack00",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack00",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack01",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack02",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack03",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack03_NoCamera",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack03_NoCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack_Hit",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_ScreenEffect_02",
+			"abilityName": "Avatar_Keqing_ElementalBurst_ScreenEffect_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Keqing_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_FallingAnthem",
+			"abilityName": "Avatar_Keqing_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing",
+			"abilityName": "Avatar_Keqing",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_TeamConfig_01BS",
+			"abilityName": "Avatar_Keqing_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_TeamConfig_01Loop",
+			"abilityName": "Avatar_Keqing_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_TeamConfig_01AS",
+			"abilityName": "Avatar_Keqing_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Spine",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Spine",
+			"abilityName": "Avatar_Keqing_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Hit",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_BS",
+			"abilityName": "Avatar_Keqing_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Hit_01",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Hit_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Hit_02",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Hit_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Spine_Loop",
+			"abilityName": "Avatar_Keqing_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_01",
+			"abilityName": "Avatar_Keqing_Attack_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_02",
+			"abilityName": "Avatar_Keqing_Attack_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_03",
+			"abilityName": "Avatar_Keqing_Attack_03",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack04_Dust",
+			"abilityName": "Avatar_Keqing_Attack04_Dust",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_04_01",
+			"abilityName": "Avatar_Keqing_Attack_04_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_04_02",
+			"abilityName": "Avatar_Keqing_Attack_04_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_HideSpark_04",
+			"abilityName": "Avatar_Keqing_Attack_HideSpark_04",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_HideSpark_05",
+			"abilityName": "Avatar_Keqing_Attack_HideSpark_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_05",
+			"abilityName": "Avatar_Keqing_Attack_05",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack05_Dust",
+			"abilityName": "Avatar_Keqing_Attack05_Dust",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ExtraAttack_SpeedLine",
+			"abilityName": "Avatar_Keqing_ExtraAttack_SpeedLine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_Attack_ExtraAttack_00",
+			"abilityName": "Avatar_Keqing_Attack_ExtraAttack_00",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Cast",
+			"abilityName": "Avatar_Keqing_ElementalArt_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Charge_Cast",
+			"abilityName": "Avatar_Keqing_ElementalArt_Charge_Cast",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Fly_Attack",
+			"abilityName": "Avatar_Keqing_ElementalArt_Fly_Attack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalArt_Charge_Lock",
+			"abilityName": "Avatar_Keqing_ElementalArt_Charge_Lock",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Keqing_ElementalBurst_Attack032Eff_Avatar_Keqing_ElementalBurst_Attack03_NoCamera",
+			"abilityName": "Avatar_Keqing_ElementalBurst_Attack032Eff_Avatar_Keqing_ElementalBurst_Attack03_NoCamera",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Beidou_ExtraAttack",
+			"abilityName": "Avatar_Beidou_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ThunderCounter_Handler",
+			"abilityName": "Avatar_Beidou_ThunderCounter_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ThunderCounter_Strike",
+			"abilityName": "Avatar_Beidou_ThunderCounter_Strike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ThunderShield_CameraHandler",
+			"abilityName": "Avatar_Beidou_ThunderShield_CameraHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ThunderShield_Gadget",
+			"abilityName": "Avatar_Beidou_ThunderShield_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ThunderShield",
+			"abilityName": "Avatar_Beidou_ThunderShield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_NormalAttackDamage",
+			"abilityName": "Avatar_Beidou_NormalAttackDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_FallingAnthem",
+			"abilityName": "Avatar_Beidou_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ProudSkill_FlashSlash",
+			"abilityName": "Avatar_Beidou_ProudSkill_FlashSlash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_SwimStamina_Reduction",
+			"abilityName": "Avatar_Beidou_SwimStamina_Reduction",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ExtraAttack_Chongyun",
+			"abilityName": "Avatar_Beidou_ExtraAttack_Chongyun",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou",
+			"abilityName": "Avatar_Beidou",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_TeamConfig_01BS",
+			"abilityName": "Avatar_Beidou_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_TeamConfig_01Loop",
+			"abilityName": "Avatar_Beidou_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_TeamConfig_01AS",
+			"abilityName": "Avatar_Beidou_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ElementalBurst_Spine",
+			"abilityName": "Avatar_Beidou_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_Spine",
+			"abilityName": "Avatar_Beidou_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ElementalBurst_Hit",
+			"abilityName": "Avatar_Beidou_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_ElementalBurst_Buff",
+			"abilityName": "Avatar_Beidou_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_Spine_Loop",
+			"abilityName": "Avatar_Beidou_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Beidou_Spine_Loop_Water",
+			"abilityName": "Avatar_Beidou_Spine_Loop_Water",
+			"abilityOverride": ""
+		}
+	]
+}

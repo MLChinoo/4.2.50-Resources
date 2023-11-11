@@ -1,0 +1,119 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Noel_ExtraAttack",
+			"abilityName": "Avatar_Noel_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Skill_S",
+			"abilityName": "Avatar_Noel_Skill_S",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Skill_E",
+			"abilityName": "Avatar_Noel_Skill_E",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Skill_E_ExitCamera",
+			"abilityName": "Avatar_Noel_Skill_E_ExitCamera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ProudSkill_21",
+			"abilityName": "Avatar_Noel_ProudSkill_21",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ProudSkill_21_Shield",
+			"abilityName": "Avatar_Noel_ProudSkill_21_Shield",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ProudSkill_22",
+			"abilityName": "Avatar_Noel_ProudSkill_22",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_FallingAnthem",
+			"abilityName": "Avatar_Noel_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel",
+			"abilityName": "Avatar_Noel",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Skill_E_ExitCamera1Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Noel_Skill_E_ExitCamera1Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_TeamConfig_01BS",
+			"abilityName": "Avatar_Noel_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_TeamConfig_01Loop",
+			"abilityName": "Avatar_Noel_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_TeamConfig_01AS",
+			"abilityName": "Avatar_Noel_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ProudSkill_NormalAttack_DamageHandler1Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Noel_ProudSkill_NormalAttack_DamageHandler1Avatar_Noel_ProudSkill_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Spine",
+			"abilityName": "Avatar_Noel_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst_Spine",
+			"abilityName": "Avatar_Noel_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst",
+			"abilityName": "Avatar_Noel_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst_BS",
+			"abilityName": "Avatar_Noel_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst_Hit",
+			"abilityName": "Avatar_Noel_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst_Buff",
+			"abilityName": "Avatar_Noel_ElementalBurst_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_ElementalBurst_Buff_Hit",
+			"abilityName": "Avatar_Noel_ElementalBurst_Buff_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Noel_Spine_Loop",
+			"abilityName": "Avatar_Noel_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

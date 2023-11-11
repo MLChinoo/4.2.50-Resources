@@ -1,0 +1,254 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack",
+			"abilityName": "Avatar_Ayaka_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack_Damage",
+			"abilityName": "Avatar_Ayaka_ExtraAttack_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack_Damage_Gadget",
+			"abilityName": "Avatar_Ayaka_ExtraAttack_Damage_Gadget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack_Damage_Handler",
+			"abilityName": "Avatar_Ayaka_ExtraAttack_Damage_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack_Damage_Gadget_1",
+			"abilityName": "Avatar_Ayaka_ExtraAttack_Damage_Gadget_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ExtraAttack_Damage_Gadget_2",
+			"abilityName": "Avatar_Ayaka_ExtraAttack_Damage_Gadget_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_NormalAttack05_CreateBullet",
+			"abilityName": "Avatar_Ayaka_NormalAttack05_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_NormalAttack05_Bullet",
+			"abilityName": "Avatar_Ayaka_NormalAttack05_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_IceSlash",
+			"abilityName": "Avatar_Ayaka_IceSlash",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Liquid_TriggerAbility",
+			"abilityName": "Avatar_Ayaka_Liquid_TriggerAbility",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_LiquidStrike",
+			"abilityName": "Avatar_Ayaka_LiquidStrike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_LiquidStrike_YayoiKaeshi",
+			"abilityName": "Avatar_Ayaka_LiquidStrike_YayoiKaeshi",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_EndLiquidStrike",
+			"abilityName": "Avatar_Ayaka_EndLiquidStrike",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Icespine",
+			"abilityName": "Avatar_Ayaka_Icespine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Icespine_Sensu_Remover",
+			"abilityName": "Avatar_Ayaka_Icespine_Sensu_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Icespine_Strike_New",
+			"abilityName": "Avatar_Ayaka_Icespine_Strike_New",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmill_SkillStart",
+			"abilityName": "Avatar_Ayaka_FrozenWindmill_SkillStart",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmill",
+			"abilityName": "Avatar_Ayaka_FrozenWindmill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Oboro",
+			"abilityName": "Avatar_Ayaka_Oboro",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Windmill_CameraController",
+			"abilityName": "Avatar_Ayaka_Windmill_CameraController",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Windmill_Sensu_Remover",
+			"abilityName": "Avatar_Ayaka_Windmill_Sensu_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmillDamage",
+			"abilityName": "Avatar_Ayaka_FrozenWindmillDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmillDissipate",
+			"abilityName": "Avatar_Ayaka_FrozenWindmillDissipate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmill_Sub_Damage",
+			"abilityName": "Avatar_Ayaka_FrozenWindmill_Sub_Damage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenWindmill_Sub_Dissipate",
+			"abilityName": "Avatar_Ayaka_FrozenWindmill_Sub_Dissipate",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrozenButterfly_Area",
+			"abilityName": "Avatar_Ayaka_FrozenButterfly_Area",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FrostFall",
+			"abilityName": "Avatar_Ayaka_FrostFall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_MagicSheathe_Add",
+			"abilityName": "Avatar_Ayaka_MagicSheathe_Add",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_MagicSheathe_Remove",
+			"abilityName": "Avatar_Ayaka_MagicSheathe_Remove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_MagicSheathe_Attack05_Add",
+			"abilityName": "Avatar_Ayaka_MagicSheathe_Attack05_Add",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_MagicSheathe_NormalAttack_Remove",
+			"abilityName": "Avatar_Ayaka_MagicSheathe_NormalAttack_Remove",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ChangeMainSkill",
+			"abilityName": "Avatar_Ayaka_ChangeMainSkill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_CloseCollider",
+			"abilityName": "Avatar_Ayaka_CloseCollider",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_PermanentSkill_2",
+			"abilityName": "Avatar_Ayaka_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Constellation_6",
+			"abilityName": "Avatar_Ayaka_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_NormalAttack_DamageHandler",
+			"abilityName": "Avatar_Ayaka_NormalAttack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_FallingAnthem",
+			"abilityName": "Avatar_Ayaka_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka",
+			"abilityName": "Avatar_Ayaka",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_TeamConfig_01BS",
+			"abilityName": "Avatar_Ayaka_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_TeamConfig_01Loop",
+			"abilityName": "Avatar_Ayaka_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_TeamConfig_01AS",
+			"abilityName": "Avatar_Ayaka_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Ayaka_Kitsune_Mask",
+			"abilityName": "AvatarItem_Ayaka_Kitsune_Mask",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ElementalBurst_Spine",
+			"abilityName": "Avatar_Ayaka_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ElementalBurst_BS",
+			"abilityName": "Avatar_Ayaka_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ElementalBurst",
+			"abilityName": "Avatar_Ayaka_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ElementBurst",
+			"abilityName": "Avatar_Ayaka_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_ElementalBurst_Hit",
+			"abilityName": "Avatar_Ayaka_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Spine_Loop",
+			"abilityName": "Avatar_Ayaka_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Spine",
+			"abilityName": "Avatar_Ayaka_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Ayaka_Normal",
+			"abilityName": "Avatar_Ayaka_Normal",
+			"abilityOverride": ""
+		}
+	]
+}

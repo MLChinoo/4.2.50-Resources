@@ -1,0 +1,489 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Dehya_ExtraAttack",
+			"abilityName": "Avatar_Dehya_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Insert",
+			"abilityName": "Avatar_Dehya_ElementalArt_Insert",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Insert_Initialize",
+			"abilityName": "Avatar_Dehya_ElementalArt_Insert_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_1_B",
+			"abilityName": "Avatar_Dehya_PermanentSkill_1_B",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_DropBall_Handler",
+			"abilityName": "Avatar_Dehya_ElementalArt_DropBall_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_DropBall",
+			"abilityName": "Avatar_Dehya_ElementalArt_DropBall",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Recycle",
+			"abilityName": "Avatar_Dehya_ElementalArt_Recycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_TriggerRecycle",
+			"abilityName": "Avatar_Dehya_ElementalArt_TriggerRecycle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_RecycleDamage",
+			"abilityName": "Avatar_Dehya_ElementalArt_RecycleDamage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_RecycleDamage_Remover",
+			"abilityName": "Avatar_Dehya_ElementalArt_RecycleDamage_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_1_A",
+			"abilityName": "Avatar_Dehya_PermanentSkill_1_A",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_TriggerRecycle_Fx",
+			"abilityName": "Avatar_Dehya_ElementalArt_TriggerRecycle_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_RecycleDamageV",
+			"abilityName": "Avatar_Dehya_ElementalArt_RecycleDamageV",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanHandler",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanFx",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanFx_Handler",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanFx_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanFx_Lv1",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanFx_Lv1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanFx_Lv2",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanFx_Lv2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_LoanFx_Lv1M",
+			"abilityName": "Avatar_Dehya_ElementalArt_LoanFx_Lv1M",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Initialize",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_LifeTimer",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_LifeTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_CDInherit",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_CDInherit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Fx",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Fx_01",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Fx_01",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Fx_02",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Fx_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Fx_LevelHandler",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Fx_LevelHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_CheckInField",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_CheckInField",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_PermanentSkill_EndureUp",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_PermanentSkill_EndureUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_OnDehya",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_OnDehya",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_OnDehya_SwitchSkill",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_OnDehya_SwitchSkill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_AttackHandler",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_AttackHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_OnMonster",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_OnMonster",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_AttackByGrave",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_AttackByGrave",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_CheckInFieldM",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_CheckInFieldM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Bullet_Trail",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Bullet_Trail",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Grave_Bullet_Timer",
+			"abilityName": "Avatar_Dehya_ElementalArt_Grave_Bullet_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Recycleh",
+			"abilityName": "Avatar_Dehya_ElementalArt_Recycleh",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst",
+			"abilityName": "Avatar_Dehya_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Initialize",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Starter",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Starter",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Timer",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Fx",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Fx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Dehya_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Camera_Handler",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Camera_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Camera_PushTarget",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Camera_PushTarget",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_WeatherChange",
+			"abilityName": "Avatar_Dehya_ElementalBurst_WeatherChange",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_SwitchSkill",
+			"abilityName": "Avatar_Dehya_BladeStorm_SwitchSkill",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_BladeStorm",
+			"abilityName": "Avatar_Dehya_ElementalBurst_BladeStorm",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_BladeStorm_Remover",
+			"abilityName": "Avatar_Dehya_ElementalBurst_BladeStorm_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Camera_DungeonEffect",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Camera_DungeonEffect",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_1_AR",
+			"abilityName": "Avatar_Dehya_PermanentSkill_1_AR",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_SprintCancle",
+			"abilityName": "Avatar_Dehya_ElementalBurst_SprintCancle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_StandbyCancle",
+			"abilityName": "Avatar_Dehya_ElementalBurst_StandbyCancle",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Controller",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Controller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_ClearTrigger",
+			"abilityName": "Avatar_Dehya_BladeStorm_ClearTrigger",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_QTE_Success",
+			"abilityName": "Avatar_Dehya_BladeStorm_QTE_Success",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_Strike_A",
+			"abilityName": "Avatar_Dehya_BladeStorm_Strike_A",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_Strike_B",
+			"abilityName": "Avatar_Dehya_BladeStorm_Strike_B",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_BladeStorm_TurnDir",
+			"abilityName": "Avatar_Dehya_ElementalBurst_BladeStorm_TurnDir",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_BladeStorm_TurnDir_Last",
+			"abilityName": "Avatar_Dehya_ElementalBurst_BladeStorm_TurnDir_Last",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_Fx_Remover",
+			"abilityName": "Avatar_Dehya_BladeStorm_Fx_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_Speed_Handler",
+			"abilityName": "Avatar_Dehya_BladeStorm_Speed_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_BladeStorm_SpeedUp",
+			"abilityName": "Avatar_Dehya_BladeStorm_SpeedUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_1_Buff",
+			"abilityName": "Avatar_Dehya_PermanentSkill_1_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_A_Timer",
+			"abilityName": "Avatar_Dehya_PermanentSkill_A_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_B_Timer",
+			"abilityName": "Avatar_Dehya_PermanentSkill_B_Timer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_B_Buff",
+			"abilityName": "Avatar_Dehya_PermanentSkill_B_Buff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_2",
+			"abilityName": "Avatar_Dehya_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_2_Handler",
+			"abilityName": "Avatar_Dehya_PermanentSkill_2_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_2_HotBuff",
+			"abilityName": "Avatar_Dehya_PermanentSkill_2_HotBuff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_PermanentSkill_2_CDTimer",
+			"abilityName": "Avatar_Dehya_PermanentSkill_2_CDTimer",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6",
+			"abilityName": "Avatar_Dehya_Constellation_6",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_CritUp",
+			"abilityName": "Avatar_Dehya_Constellation_6_CritUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_CritHurtUp",
+			"abilityName": "Avatar_Dehya_Constellation_6_CritHurtUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_Handler",
+			"abilityName": "Avatar_Dehya_Constellation_6_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_Initialize",
+			"abilityName": "Avatar_Dehya_Constellation_6_Initialize",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_Remover",
+			"abilityName": "Avatar_Dehya_Constellation_6_Remover",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Constellation_6_Crit_CountUp",
+			"abilityName": "Avatar_Dehya_Constellation_6_Crit_CountUp",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Attack_DamageHandler",
+			"abilityName": "Avatar_Dehya_Attack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_FallingAnthem",
+			"abilityName": "Avatar_Dehya_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya",
+			"abilityName": "Avatar_Dehya",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Insert_AS",
+			"abilityName": "Avatar_Dehya_ElementalArt_Insert_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalArt_Recycle_AS",
+			"abilityName": "Avatar_Dehya_ElementalArt_Recycle_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Loop_A",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Loop_A",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Loop_B",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Loop_B",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_End",
+			"abilityName": "Avatar_Dehya_ElementalBurst_End",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_AS",
+			"abilityName": "Avatar_Dehya_ElementalBurst_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_TeamConfig_01BS",
+			"abilityName": "Avatar_Dehya_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_TeamConfig_01Loop",
+			"abilityName": "Avatar_Dehya_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_TeamConfig_01AS",
+			"abilityName": "Avatar_Dehya_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarItem_Dehya_SumeruHairpin",
+			"abilityName": "AvatarItem_Dehya_SumeruHairpin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Spine",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_BS",
+			"abilityName": "Avatar_Dehya_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Hit",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_ElementalBurst_Hit_02",
+			"abilityName": "Avatar_Dehya_ElementalBurst_Hit_02",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Dehya_Spine_Loop",
+			"abilityName": "Avatar_Dehya_Spine_Loop",
+			"abilityOverride": ""
+		}
+	]
+}

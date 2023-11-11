@@ -1,0 +1,159 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Furina_ExtraAttack",
+			"abilityName": "Avatar_Furina_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ArkheGrade_Handler",
+			"abilityName": "Avatar_Furina_ArkheGrade_Handler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ArkheGrade_Pneuma_SetGV_0",
+			"abilityName": "Avatar_Furina_ArkheGrade_Pneuma_SetGV_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ArkheGrade_Pneuma_SetGV_1",
+			"abilityName": "Avatar_Furina_ArkheGrade_Pneuma_SetGV_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ArkheGrade_Ousia_SetGV_0",
+			"abilityName": "Avatar_Furina_ArkheGrade_Ousia_SetGV_0",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ArkheGrade_Ousia_SetGV_1",
+			"abilityName": "Avatar_Furina_ArkheGrade_Ousia_SetGV_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_DamageHandler",
+			"abilityName": "Avatar_Furina_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalArt",
+			"abilityName": "Avatar_Furina_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalArt_Goddess_Heal",
+			"abilityName": "Avatar_Furina_ElementalArt_Goddess_Heal",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst",
+			"abilityName": "Avatar_Furina_ElementalBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_Invincible",
+			"abilityName": "Avatar_Furina_ElementalBurst_Invincible",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_BuffStart",
+			"abilityName": "Avatar_Furina_ElementalBurst_BuffStart",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_Camera",
+			"abilityName": "Avatar_Furina_ElementalBurst_Camera",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_EmotionControl",
+			"abilityName": "Avatar_Furina_ElementalBurst_EmotionControl",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_Fog",
+			"abilityName": "Avatar_Furina_ElementalBurst_Fog",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_FairyStage_ShadeM",
+			"abilityName": "Avatar_Furina_ElementalBurst_FairyStage_ShadeM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_FairyStageM",
+			"abilityName": "Avatar_Furina_ElementalBurst_FairyStageM",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_FairyStage_3rdView",
+			"abilityName": "Avatar_Furina_ElementalBurst_FairyStage_3rdView",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_FairyStage",
+			"abilityName": "Avatar_Furina_ElementalBurst_FairyStage",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_ElementalBurst_FairyStage_Shade",
+			"abilityName": "Avatar_Furina_ElementalBurst_FairyStage_Shade",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "AvatarChangeHP_MinCount3_ABILITY_Furina_ElementalBurst_AvatarChangeHP_Count",
+			"abilityName": "AvatarChangeHP_MinCount3_ABILITY_Furina_ElementalBurst_AvatarChangeHP_Count",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_PermanentSkill_1",
+			"abilityName": "Avatar_Furina_PermanentSkill_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_PermanentSkill_2",
+			"abilityName": "Avatar_Furina_PermanentSkill_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_FallingAnthem",
+			"abilityName": "Avatar_Furina_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_MoveOnWater_FootRipple_Left",
+			"abilityName": "Avatar_Furina_MoveOnWater_FootRipple_Left",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_MoveOnWater_FootRipple_Right",
+			"abilityName": "Avatar_Furina_MoveOnWater_FootRipple_Right",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_PermanentSkill_3",
+			"abilityName": "Avatar_Furina_PermanentSkill_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina",
+			"abilityName": "Avatar_Furina",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_TeamConfig_01BS",
+			"abilityName": "Avatar_Furina_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_TeamConfig_01Loop",
+			"abilityName": "Avatar_Furina_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Furina_TeamConfig_01AS",
+			"abilityName": "Avatar_Furina_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

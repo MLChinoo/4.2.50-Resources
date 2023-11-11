@@ -1,0 +1,254 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Mika_ExtraAttack",
+			"abilityName": "Avatar_Mika_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ExtraAttack_CreateBullet",
+			"abilityName": "Avatar_Mika_ExtraAttack_CreateBullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ExtraAttack_Bullet",
+			"abilityName": "Avatar_Mika_ExtraAttack_Bullet",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt",
+			"abilityName": "Avatar_Mika_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_Buff_Controller",
+			"abilityName": "Avatar_Mika_ElementalArt_Buff_Controller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_Buff_Team_Ratio",
+			"abilityName": "Avatar_Mika_ElementalArt_Buff_Team_Ratio",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_Controller",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_Controller",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_Buff_Mark",
+			"abilityName": "Avatar_Mika_ElementalArt_Buff_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_1",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_2",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_3",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_3",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_4",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_4",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_5",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_5",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_P2_Mark",
+			"abilityName": "Avatar_Mika_P2_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Buff_Eff_Trigger_Mode",
+			"abilityName": "Avatar_Mika_Buff_Eff_Trigger_Mode",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Sub_Buff_GV_AddOne",
+			"abilityName": "Avatar_Mika_Sub_Buff_GV_AddOne",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_1_LocalAvatar",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_1_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_2_LocalAvatar",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_2_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_3_LocalAvatar",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_3_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_4_LocalAvatar",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_4_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_Speed_Up_Sub_5_LocalAvatar",
+			"abilityName": "Avatar_Mika_Attack_Speed_Up_Sub_5_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_1_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_1_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_2_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_2_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_3_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_3_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_4_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_4_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C6_Sub_5_LocalAvatar",
+			"abilityName": "Avatar_Mika_C6_Sub_5_LocalAvatar",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Sub_Buff_Trigger_Eff_Mode_1",
+			"abilityName": "Avatar_Mika_Sub_Buff_Trigger_Eff_Mode_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Buff_Eff_Trigger_Mode_In_1",
+			"abilityName": "Avatar_Mika_Buff_Eff_Trigger_Mode_In_1",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Buff_Eff_Trigger_Mode_In_2",
+			"abilityName": "Avatar_Mika_Buff_Eff_Trigger_Mode_In_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Sub_Buff_Trigger_Eff",
+			"abilityName": "Avatar_Mika_Sub_Buff_Trigger_Eff",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Sub_Buff_Trigger_Eff_Mode_2",
+			"abilityName": "Avatar_Mika_Sub_Buff_Trigger_Eff_Mode_2",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_NoChargeShoot",
+			"abilityName": "Avatar_Mika_ElementalArt_NoChargeShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_Buff_Controller_",
+			"abilityName": "Avatar_Mika_ElementalArt_Buff_Controller_",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_Sub_Bullet_Launch",
+			"abilityName": "Avatar_Mika_ElementalArt_Sub_Bullet_Launch",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementalArt_ChargeShoot",
+			"abilityName": "Avatar_Mika_ElementalArt_ChargeShoot",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Aim_Mixin",
+			"abilityName": "Avatar_Mika_Aim_Mixin",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_RayCast_CloseFx",
+			"abilityName": "Avatar_Mika_RayCast_CloseFx",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_EArt_Has_Target_Mark",
+			"abilityName": "Avatar_Mika_EArt_Has_Target_Mark",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_ElementBurst",
+			"abilityName": "Avatar_Mika_ElementBurst",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_C4_Stack",
+			"abilityName": "Avatar_Mika_C4_Stack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Burst_Energy_Revive",
+			"abilityName": "Avatar_Mika_Burst_Energy_Revive",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_FallingAnthem",
+			"abilityName": "Avatar_Mika_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Attack_DamageHandler",
+			"abilityName": "Avatar_Mika_Attack_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_Radar_Collectables_Mengde",
+			"abilityName": "Avatar_Mika_Radar_Collectables_Mengde",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika",
+			"abilityName": "Avatar_Mika",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_TeamConfig_01BS",
+			"abilityName": "Avatar_Mika_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_TeamConfig_01Loop",
+			"abilityName": "Avatar_Mika_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Mika_TeamConfig_01AS",
+			"abilityName": "Avatar_Mika_TeamConfig_01AS",
+			"abilityOverride": ""
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"abilities": [
+		{
+			"abilityID": "Avatar_Albedo_ExtraAttack",
+			"abilityName": "Avatar_Albedo_ExtraAttack",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_SkillHoldCharge",
+			"abilityName": "Avatar_Albedo_SkillHoldCharge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_FullRockAlchemist",
+			"abilityName": "Avatar_Albedo_FullRockAlchemist",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_FullRockAlchemist_Custom",
+			"abilityName": "Avatar_Albedo_FullRockAlchemist_Custom",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_AlchemicalBreakOut",
+			"abilityName": "Avatar_Albedo_AlchemicalBreakOut",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_DamageHandler",
+			"abilityName": "Avatar_Albedo_DamageHandler",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_FallingAnthem",
+			"abilityName": "Avatar_Albedo_FallingAnthem",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo",
+			"abilityName": "Avatar_Albedo",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Skill_ElementalArt",
+			"abilityName": "Avatar_Albedo_Skill_ElementalArt",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Skill_ElementalArt_AS",
+			"abilityName": "Avatar_Albedo_Skill_ElementalArt_AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Skill_ElementalArt_BS",
+			"abilityName": "Avatar_Albedo_Skill_ElementalArt_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_TeamConfig_01BS",
+			"abilityName": "Avatar_Albedo_TeamConfig_01BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_TeamConfig_01Loop",
+			"abilityName": "Avatar_Albedo_TeamConfig_01Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_TeamConfig_01AS",
+			"abilityName": "Avatar_Albedo_TeamConfig_01AS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Skill_ElementalArt_Charge",
+			"abilityName": "Avatar_Albedo_Skill_ElementalArt_Charge",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_ElementalBurst_Spine",
+			"abilityName": "Avatar_Albedo_ElementalBurst_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_ElementalBurst_Spine_Hand",
+			"abilityName": "Avatar_Albedo_ElementalBurst_Spine_Hand",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Spine",
+			"abilityName": "Avatar_Albedo_Spine",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_ElementalBurst_BS",
+			"abilityName": "Avatar_Albedo_ElementalBurst_BS",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_ElementalBurst_Hit",
+			"abilityName": "Avatar_Albedo_ElementalBurst_Hit",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Spine_Loop",
+			"abilityName": "Avatar_Albedo_Spine_Loop",
+			"abilityOverride": ""
+		},
+		{
+			"abilityID": "Avatar_Albedo_Spine_Loop_Hand",
+			"abilityName": "Avatar_Albedo_Spine_Loop_Hand",
+			"abilityOverride": ""
+		}
+	]
+}
